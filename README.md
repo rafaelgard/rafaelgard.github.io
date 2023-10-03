@@ -1,13 +1,11 @@
 ## Hi there, I'm Rafael - Master's Student (USP), Production Engineer (UFF) and passionate about modeling and programming!!
 
-
 # Data Scientist
 
 #### Technical Skills: Python, Machine Learning, SQL, Operational Research, Optimization, Logistics, Power BI, Azure
 ## Education
 - MS., Production Engineering | University of São Paulo (USP) (Present): Research in Production Engineering in the field of operations research, focusing
-on optimizing vessel scheduling for offshore oil well production. Qualified for the final
-project presentation.
+on optimizing vessel scheduling for offshore oil well production. (_At the moment_)	
 
 - B.S., Production Engineering	| Federal Fluminense University (_November 2019_)	 			        		
 
