@@ -4,10 +4,9 @@
 
 #### Technical Skills: Python, Machine Learning, SQL, Operational Research, Optimization, Logistics, Power BI, Azure
 ## Education
-- MS., Production Engineering | University of São Paulo (USP) (Present): Research in Production Engineering in the field of operations research, focusing
-on optimizing vessel scheduling for offshore oil well production. (_At the moment_)	
+- MS., Industrial Engineering | University of São Paulo (USP) (Present): Research in Production Engineering in the field of operations research, focusing on optimizing vessel scheduling for offshore oil well production. (_At the moment_)	
 
-- B.S., Production Engineering	| Federal Fluminense University (_November 2019_)	 			        		
+- B.S., Industrial Engineering	| Federal Fluminense University (_November 2019_)	 			        		
 
 ## Experience with:
 
