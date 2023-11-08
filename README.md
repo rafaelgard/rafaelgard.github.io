@@ -10,14 +10,14 @@
 
 ## Experience with:
 
-- ML classification, regression, NLP, clustering models, Gurobi and operations research mathematical models especialy involving VRP.
+- ML classification, regression, NLP, clustering models, operations research mathematical models especialy involving VRP on Gurobi, Pyomo and Highs.
 
 ### Languages and Tools:
 
 - Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
 - Power BI (Dax)
-- Gurobi
+- Gurobi, Pyomo and Highs.
 - Azure
 - GCP
 - C++
@@ -69,6 +69,18 @@ Excel spreadsheet automation using VBA programming.
 # 💻 Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
+
+## Simulated Annealing
+![Alt text](images/Simulated_Annealing.jpg)
+
+This project aimed to create a simple and visual application of the Simulated Annealing metaheuristic in the context of image processing.
+
+Starting from a matrix that represents an image, the algorithm gradually converges to the target image, and it is possible to observe the entire conversion process executed by the algorithm.
+
+The algorithm used is based on the original article proposed by Kirkpatrick et al. (1983).
+- [Click here to see here the project on github](https://github.com/rafaelgard/Simulated-annealing)
+
+
 ## Starbucks Reviews EDA, NLP and ML
 ![Alt text](images/Starbucks_Reviews_EDA_NLP_ML.jpg)
 
@@ -76,6 +88,7 @@ This project aimed to carry out exploratory data analysis, NLP and the creation 
 
 From a comment it is possible to indicate the prediction of the rating given by the customer. This score varies between 1 and 5.
 - [Click here to see here the project on github](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
+
 
 ## Text Based Nps Predictor
 ![Alt text](images/text_based_nps_predictor.png)
