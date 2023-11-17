@@ -67,8 +67,31 @@ Excel spreadsheet automation using VBA programming.
 ---
 
 # 💻 Latest Projects
+Currently, I have 12 projects in my portfolio. You can check each of them below:
 
 <!-- BLOG-POST-LIST:START -->
+
+## Optimization Projects with Gurobi, Highs and Pyomo
+![Alt text](images/optimizations_projects.jpg)
+
+This repository contains implementations of 4 optimization problems, all developed using the Gurobipy, Pyomo, Highspy libraries, and the GLPK solver. The solutions provide optimized approaches to challenges related to vessel routing, fuel allocation on ships, and drone routing for surveillance of areas of interest.
+
+- [Click here to see here the project on github](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
+
+## Text Based Nps Predictor
+![Alt text](images/text_based_nps_predictor.png)
+
+This project aimed to create a classifier using NLP techniques to predict a customer's NPS (Net Promoter Score) based on comments entered by the user.
+
+From a comment, it is possible to indicate the prediction of the customer's NPS classification, which can be: Detractor, neutral or promoter.
+
+![Alt text](images/streamlit_record.gif)
+
+Using the model, it is possible to speed up the evaluation of comments and the NPS classification in order to enable a faster response to a company's customers.
+
+A customer completed a satisfaction survey and is very dissatisfied? It is possible to detect this in real time with the trained model and initiate a cancellation prevention action, for example triggering a communication or alert in the customer relationship center.
+
+- [Click here to see here the project on github](https://github.com/rafaelgard/text_based_nps_predictor)
 
 ## Simulated Annealing
 ![Alt text](images/Simulated_Annealing.jpg)
@@ -88,22 +111,6 @@ This project aimed to carry out exploratory data analysis, NLP and the creation 
 
 From a comment it is possible to indicate the prediction of the rating given by the customer. This score varies between 1 and 5.
 - [Click here to see here the project on github](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
-
-
-## Text Based Nps Predictor
-![Alt text](images/text_based_nps_predictor.png)
-
-This project aimed to create a classifier using NLP techniques to predict a customer's NPS (Net Promoter Score) based on comments entered by the user.
-
-From a comment, it is possible to indicate the prediction of the customer's NPS classification, which can be: Detractor, neutral or promoter.
-
-![Alt text](images/streamlit_record.gif)
-
-Using the model, it is possible to speed up the evaluation of comments and the NPS classification in order to enable a faster response to a company's customers.
-
-A customer completed a satisfaction survey and is very dissatisfied? It is possible to detect this in real time with the trained model and initiate a cancellation prevention action, for example triggering a communication or alert in the customer relationship center.
-
-- [Click here to see here the project on github](https://github.com/rafaelgard/text_based_nps_predictor)
 
 ## Data Science Applied to Military Enlistment
 ![Alt text](images/Data-Science-Aplicado-ao-Alistamento-Militar.png)
@@ -145,10 +152,9 @@ A study on individual annual income resulting from several factors. such as the 
 
 ### 💡 Some Other Cool Projects I Have Made
 <!-- BLOG-POST-LIST:START -->
+- [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
 - [Gurobi_helper](https://github.com/rafaelgard/Gurobi_helper)
 - [Pandas_to_NLP](https://github.com/rafaelgard/Pandas_to_NLP)
-- [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
-- [Implementations-in-Gurobi](https://github.com/rafaelgard/Implementacoes-em-Gurobi)
 - [Append_CSV](https://github.com/rafaelgard/Junta_CSV)
 <!-- BLOG-POST-LIST:END -->
 
@@ -157,5 +163,5 @@ You can reach me out on any channels below!
 
 - [Heres my Linkedin](https://www.linkedin.com/in/rafael-gardel-b1976999/)
 - I also have a blog at [Medium](https://https://rafael-gardel.medium.com/)
-- You can also send me an [email](mailto:rafaelgardel@gmail.com)
+- You can also send me an [email](mailto:rafaelgardel@usp.br)
 
