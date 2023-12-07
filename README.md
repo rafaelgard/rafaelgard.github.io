@@ -1,20 +1,23 @@
-## Hi there, I'm Rafael - Data Scientist, Master's Student (USP).
+## Olá, Sou Rafael Gardel - Cientista de Dados, Mestrando em Engenharia de Produção (USP).
 
 [English version](https://rafaelgard.github.io/another-page.html)
 
-# Data Scientist
+Possuo 7 anos de experiência em programação e 3 anos de experiência com python, sql e análise de dados. Já trabalhei como Cientista de Dados com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito.
 
-#### Technical Skills: Python, Machine Learning, SQL, Operational Research, Optimization, Logistics, Power BI, Azure.
-## Education
-- MS., Industrial Engineering | University of São Paulo (USP) (Present): Research in Production Engineering in the field of operations research, focusing on optimizing vessel scheduling for offshore oil well production. (_At the moment_)	
+## Minha experiencia com programação:
 
-- B.S., Industrial Engineering	| Federal Fluminense University (_November 2019_)	 			        		
+- Python, Machine Learning, SQL, Pesquisa Operacional, Otimização, Logistica, Power BI, Docker, Azure, GCP.
 
-## Experience with:
+- Modelos de classificação, regressão, NLP, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
+---
+## Educação
+- Mestrando, Engenharia de Produção | Universidade de São Paulo (USP): 
+O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_Atualmente_)	
 
-- ML classification, regression, NLP, clustering models, operations research mathematical models especialy involving VRP on Gurobi, Pyomo and Highs.
+- Graduação, Engenharia de Produção	| Universidade Federal Fluminense (_Novembro 2019_)	 			        		
+---
 
-### Languages and Tools:
+### Linguagens e Ferramentas:
 
 - Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
@@ -25,134 +28,147 @@
 - C++
 - VBA 
 
-## Detailed Work Experience
-**Data Scientist @ Thera Consulting (_March 2023 - _July 2023__)**:
-Worked as a data scientist, modeling and creating specific methods for an optimization
-project involving Brazil, China, and Áustria.
-- Mathematical modeling of logistical problems using Gurobi.
-- Code refactoring in Python.
-- Code versioning with git and testing using Azure and GCP platforms.
+---
+## Experiência Detalhada de Trabalho
+**Cientista de Dados @ Thera Consulting (_Março 2023 - _Julho 2023__)**:
+Trabalhei como cientista de dados, modelando e criando métodos específicos para um projeto de otimização envolvendo Brasil, China e Áustria.
+- Modelagem matemática de problemas logísticos usando Gurobi.
+- Refatoração de código em Python.
+- Controle de versão de código com git e testes usando plataformas Azure e GCP.
 
-**Senior CRM BI Analyst @ Cencosud (_April 2022 - _February 2023__)**:
-I worked in the CRM & BI area of ​​credit cards for several brands, carrying out the main activities:
+**Analista Sênior de BI de CRM @ Cencosud (_Abril 2022 - _Fevereiro 2023__)**:
+Trabalhei na área de CRM e BI de cartões de crédito para várias marcas, realizando as principais atividades:
 
-- Generated insights from data analysis in QlikView, Power BI, and Microstrategy databases to increase campaign and product conversion rates.
-- Automated ETL processes, created databases, and generated reports using QlikView (scripting and macros) and Python.
-- Migrated existing QlikView databases and reports to Microstrategy in the cloud for faster report creation and insight generation.
-- Created machine learning models (classification, clustering, regression, NLP, and data mining) for churn prediction, generating insights and better segmentation.
-- Structured and executed the entire ML process flow for the department.
-- Automated day-to-day tasks using Python
+- Geração de insights a partir da análise de dados em bancos de dados QlikView, Power BI e Microstrategy para aumentar as taxas de conversão de campanhas e produtos.
+- Automatização de processos ETL, criei bancos de dados e gerei relatórios usando QlikView (scripting e macros) e Python.
+- Migração de bancos de dados e relatórios existentes do QlikView para o Microstrategy na nuvem para uma criação de relatórios e geração de insights mais rápidos.
+- Criação de modelos de machine learning (classificação, agrupamento, regressão, NLP e mineração de dados) para previsão de churn, gerando insights e uma melhor segmentação.
+Estruturei e executei todo o fluxo de processo de ML para o departamento.
 
-**Teaching Assistant, University of São Paulo (USP) (_April 2021 - _July 2021__)** 
-- Provided support to students with questions about the modeling and optimization of production system course.
+**Monitor, Universidade de São Paulo (USP) (_Abril 2021 - _Julho 2021__)** 
+- Forneci suporte aos estudantes com dúvidas sobre modelagem e otimização de cursos de sistemas de produção.
 
-**Engineering Internships, (_August 2015 - _May 2019__)** 
-- Worked in three companies in the Oil & Gas and Fiber Optics sectors, conducting activities such as process mapping, materials tracking in SAP, indicator generation, and
-Excel spreadsheet automation using VBA programming.
+**Estágios em Engenharia, (_Agosto 2015 - _Maio 2019__)** 
+- Trabalhei em três empresas nos setores de Petróleo e Gás e Fibra Óptica, realizando atividades como mapeamento de processos, rastreamento de materiais no SAP, geração de indicadores e automação de planilhas Excel usando programação VBA.
 
-## Volunteer Work
-**Director of Communication, Academic Engineering Center, (2014 - 2016)** 
-- Coordinated communication between the academic center and students.
+## Trabalho Voluntário
+**Diretor de Communicação, Centro Acadêmico de Engenharia, (2014 - 2016)** 
+- Coordenei a comunicação entre o centro acadêmico e os estudantes.
 
-**Director of Marketing, Junior Company Focus Consultoria, (2014 - 2016)**
-- Managed company relationships with clients and stakeholders.
-- Structured client and partner prospecting.
-- Implemented customer retention strategies.
-
-
-
-### Languages:
-- Advanced English.
-- Basic Spanish.
-- Native Portuguese.
+**Diretor de Marketing, Empresa Júnior Focus Consultoria, (2014 - 2016)**
+- Gerenciei relacionamentos da empresa com clientes e stakeholders.
+- Estruturei prospecção de clientes e parceiros.
+- Implementei estratégias de retenção de clientes.
 
 ---
 
-# 💻 Latest Projects
-Currently, I have 12 projects in my portfolio. You can check each of them below:
+### Idiomas:
+- Inglês avançado.
+- Espanhol básico.
+- Português nativo.
+
+# 💻 Últimos Projetos
+Atualmente, tenho 12 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
 
 <!-- BLOG-POST-LIST:START -->
 
-## Optimization Projects with Gurobi, Highs and Pyomo
+## Projetos de Otimização com Gurobi, Highs e Pyomo
 ![Alt text](images/optimizations_projects.jpg)
 
-This repository contains implementations of 4 optimization problems, all developed using the Gurobipy, Pyomo, Highspy libraries, and the GLPK solver. The solutions provide optimized approaches to challenges related to vessel routing, fuel allocation on ships, and drone routing for surveillance of areas of interest.
+Este repositório contém implementações de 4 problemas de otimização:
 
-- [Click here to see here the project on github](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
+- Problema de Roterização de Embarcações com Múltiplas Capacidades e Minimização de Custos;
+
+- Problema de Roteirização de Embarcações com Múltiplas Capacidades e Programação de Embarques;
+
+- Problema de Alocação de Combustíveis em Navios com Múltiplas Capacidades em Terminais Portuários;
+
+- Roteirização de drones para vigilância de áreas estratégicas.
+
+ Todos desenvolvidos usando as bibliotecas Gurobipy, Pyomo, Highspy e o solver GLPK. As soluções fornecem abordagens otimizadas para desafios relacionados ao roteamento de navios, alocação de combustível em navios e roteamento de drones para vigilância de áreas de interesse.
+
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
 
 ## Text Based Nps Predictor
 ![Alt text](images/text_based_nps_predictor.png)
 
-This project aimed to create a classifier using NLP techniques to predict a customer's NPS (Net Promoter Score) based on comments entered by the user.
+Este projeto teve como objetivo criar um classificador usando técnicas de NLP para prever o NPS (Net Promoter Score) de um cliente com base em comentários inseridos pelo usuário.
 
-From a comment, it is possible to indicate the prediction of the customer's NPS classification, which can be: Detractor, neutral or promoter.
+A partir de um comentário, é possível indicar a previsão da classificação NPS do cliente, que pode ser: Detrator, neutro ou promotor.
 
 ![Alt text](images/streamlit_record.gif)
 
-Using the model, it is possible to speed up the evaluation of comments and the NPS classification in order to enable a faster response to a company's customers.
+Usando o modelo, é possível acelerar a avaliação de comentários e a classificação NPS para permitir uma resposta mais rápida aos clientes da empresa.
 
-A customer completed a satisfaction survey and is very dissatisfied? It is possible to detect this in real time with the trained model and initiate a cancellation prevention action, for example triggering a communication or alert in the customer relationship center.
+Um cliente concluiu uma pesquisa de satisfação e está muito insatisfeito? É possível detectar isso em tempo real com o modelo treinado e iniciar uma ação de prevenção de cancelamento, como acionar uma comunicação ou alerta no centro de relacionamento com o cliente.
 
-- [Click here to see here the project on github](https://github.com/rafaelgard/text_based_nps_predictor)
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/text_based_nps_predictor)
 
 ## Simulated Annealing
 ![Alt text](images/Simulated_Annealing.jpg)
 
-This project aimed to create a simple and visual application of the Simulated Annealing metaheuristic in the context of image processing.
+Este projeto teve como objetivo criar uma aplicação simples e visual da meta-heurística Simulated Annealing no contexto de processamento de imagem.
 
-Starting from a matrix that represents an image, the algorithm gradually converges to the target image, and it is possible to observe the entire conversion process executed by the algorithm.
+Partindo de uma matriz que representa uma imagem, o algoritmo converge gradualmente para a imagem alvo, e é possível observar todo o processo de conversão executado pelo algoritmo.
 
-The algorithm used is based on the original article proposed by Kirkpatrick et al. (1983).
-- [Click here to see here the project on github](https://github.com/rafaelgard/Simulated-annealing)
+O algoritmo utilizado é baseado no artigo original proposto por Kirkpatrick et al. (1983).
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Simulated-annealing)
 
 
-## Starbucks Reviews EDA, NLP and ML
+## Análise de Avaliações, NLP e ML do Starbucks
 ![Alt text](images/Starbucks_Reviews_EDA_NLP_ML.jpg)
 
-This project aimed to carry out exploratory data analysis, NLP and the creation of a machine learning model to predict review scores based on comments.
+Este projeto teve como objetivo realizar análise exploratória de dados, NLP e a criação de um modelo de machine learning para prever as notas de avaliação com base em comentários.
 
-From a comment it is possible to indicate the prediction of the rating given by the customer. This score varies between 1 and 5.
-- [Click here to see here the project on github](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
+A partir de um comentário, é possível indicar a previsão da nota dada pelo cliente. Esta nota varia de 1 a 5.
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
 
-## Data Science Applied to Military Enlistment
+## Data Science Aplicado ao Alistamento Militar
 ![Alt text](images/Data-Science-Aplicado-ao-Alistamento-Militar.png)
 
-The objective of the project is to analyze demographic data regarding people who enlist and predict the conditions that imply selection to serve in the Brazilian army.
+O objetivo do projeto é analisar dados demográficos sobre pessoas que se alistam e prever as condições que implicam na seleção para servir no exército brasileiro.
 
-I also made a publication on Medium describing in detail each step taken in this analysis.
+Também fiz uma publicação no Medium descrevendo detalhadamente cada etapa dessa análise.
 
-- [Click here to see here the project on github](https://github.com/rafaelgard/Data-Science-Aplicado-ao-Alistamento-Militar)
-- [Click here to see here the project on medium](https://rafael-gardel.medium.com/data-science-aplicado-ao-alistamento-militar-411b727bbbb3)
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Data-Science-Aplicado-ao-Alistamento-Militar)
+- [Clique aqui para ver o projeto no Medium](https://rafael-gardel.medium.com/data-science-aplicado-ao-alistamento-militar-411b727bbbb3)
 
-## Analyzing the National Vaccination Campaign against Covid-19 with Data Science
+## Analisando a Campanha Nacional de Vacinação contra a Covid-19 com Data Science
 
-Which group has been vaccinated the most so far? How old is the oldest Brazilian who has already been vaccinated? Who leads the ranking of vaccinated people, men or women? Which manufacturer is the most commonly used vaccine? What is the average age of those vaccinated? What is the predominant color among those already vaccinated? These and other questions will be answered in this project.
+- Qual grupo foi o mais vacinado até agora? 
+- Qual é a idade do brasileiro mais velho que já foi vacinado? 
+- Quem lidera o ranking de pessoas vacinadas, homens ou mulheres? 
+- Qual fabricante de vacina é mais comumente utilizada? 
+- Qual é a idade média dos vacinados? 
+- Qual é a cor predominante entre os vacinados? 
+
+Essas e outras perguntas serão respondidas neste projeto.
 
 ![Alt text](images/Analisando-a-Campanha-Nacional-de-Vacina-o-contra-Covid-19-com-Data-Science.jpg)
 
-- [Click here to see here the project on github](https://github.com/rafaelgard/Analisando-a-Campanha-Nacional-de-Vacina-o-contra-Covid-19-com-Data-Science)
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Analisando-a-Campanha-Nacional-de-Vacina-o-contra-Covid-19-com-Data-Science)
 
-- [Click here to see here the project on medium](https://rafael-gardel.medium.com/analisando-a-campanha-nacional-de-vacina%C3%A7%C3%A3o-contra-covid-19-com-data-science-621d6dc06f7c)
+- [Clique aqui para ver o projeto no Medium](https://rafael-gardel.medium.com/analisando-a-campanha-nacional-de-vacina%C3%A7%C3%A3o-contra-covid-19-com-data-science-621d6dc06f7c)
 
-## Data Science applied to the SUS waiting list in the city of Rio de Janeiro
+## Data Science aplicado à lista de espera do SUS na cidade do Rio de Janeiro
 ![Alt text](images/sus.png)
-How many days on average does a carioca stay on the SUS waiting list to undergo a procedure? What are the most requested procedures? Which hospitals have the longest queues? How old is the oldest patient in line? And the youngest? These and other questions will be answered in this project.
+Quantos dias, em média, um carioca fica na lista de espera do SUS para realizar um procedimento? Quais são os procedimentos mais solicitados? Quais hospitais têm as filas mais longas? Qual é a idade do paciente mais velho na fila? E o mais jovem? Essas e outras perguntas serão respondidas neste projeto.
 
-- [Click here to see here the project on github](https://github.com/rafaelgard/Data-Science-aplicado-a-lista-de-espera-do-SUS-na-cidade-do-Rio-de-janeiro)
-- [Click here to see here the project on medium](https://rafael-gardel.medium.com/data-science-aplicado-a-lista-de-espera-do-sus-na-cidade-do-rio-de-janeiro-2203ade764ac)
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Data-Science-aplicado-a-lista-de-espera-do-SUS-na-cidade-do-Rio-de-janeiro)
+- [Clique aqui para ver o projeto no Medium](https://rafael-gardel.medium.com/data-science-aplicado-a-lista-de-espera-do-sus-na-cidade-do-rio-de-janeiro-2203ade764ac)
 
 ## Adult income dataset analysis
-A study on individual annual income resulting from several factors. such as the individual's education, age, sex, occupation, etc.
+Um estudo sobre a renda anual individual resultante de vários fatores, como educação, idade, sexo, ocupação, etc.
 
 ![Alt text](images/adult.png)
-- [Click here to see here the project on github](https://github.com/rafaelgard/Adult-income-dataset-analysis)
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Adult-income-dataset-analysis)
 
 
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-### 💡 Some Other Cool Projects I Have Made
+### 💡 Outros projetos interessantes que eu desenvolvi
 <!-- BLOG-POST-LIST:START -->
 - [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
 - [Gurobi_helper](https://github.com/rafaelgard/Gurobi_helper)
@@ -163,7 +179,7 @@ A study on individual annual income resulting from several factors. such as the 
 ---
 You can reach me out on any channels below!
 
-- [Heres my Linkedin](https://www.linkedin.com/in/rafael-gardel-b1976999/)
-- I also have a blog at [Medium](https://https://rafael-gardel.medium.com/)
-- You can also send me an [email](mailto:rafaelgardel@usp.br)
+- [Meu LinkedIn](https://www.linkedin.com/in/rafael-gardel-b1976999/)
+- Também tenho um blog no [Medium](https://https://rafael-gardel.medium.com/)
+- Você também pode me enviar um [email](mailto:rafaelgardel@usp.br)
 
