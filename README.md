@@ -11,7 +11,6 @@ Possuo 7 anos de experiência em programação e 3 anos de experiência com pyth
 - Modelos de classificação, regressão, NLP, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
 
 ---
-
 ## Educação
 - Mestrando, Engenharia de Produção | Universidade de São Paulo (USP): 
 O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_2020_ - _Atualmente_)	
