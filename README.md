@@ -4,20 +4,23 @@
 
 Possuo 7 anos de experiência em programação e 3 anos de experiência com python, sql e análise de dados. Já trabalhei como Cientista de Dados com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito.
 
-## Minha experiencia com programação:
+## Minha experiência com programação:
 
 - Python, Machine Learning, SQL, Pesquisa Operacional, Otimização, Logistica, Power BI, Docker, Azure, GCP.
 
 - Modelos de classificação, regressão, NLP, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
+
 ---
+
 ## Educação
 - Mestrando, Engenharia de Produção | Universidade de São Paulo (USP): 
-O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_Atualmente_)	
+O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_2020_ - _Atualmente_)	
 
-- Graduação, Engenharia de Produção	| Universidade Federal Fluminense (_Novembro 2019_)	 			        		
+- Graduação, Engenharia de Produção	| Universidade Federal Fluminense (_Novembro 2019_)	 	
+
 ---
 
-### Linguagens e Ferramentas:
+## Linguagens e Ferramentas:
 
 - Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
@@ -29,6 +32,7 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - VBA 
 
 ---
+
 ## Experiência Detalhada de Trabalho
 **Cientista de Dados @ Thera Consulting (_Março 2023 - _Julho 2023__)**:
 Trabalhei como cientista de dados, modelando e criando métodos específicos para um projeto de otimização envolvendo Brasil, China e Áustria.
@@ -51,6 +55,8 @@ Estruturei e executei todo o fluxo de processo de ML para o departamento.
 **Estágios em Engenharia, (_Agosto 2015 - _Maio 2019__)** 
 - Trabalhei em três empresas nos setores de Petróleo e Gás e Fibra Óptica, realizando atividades como mapeamento de processos, rastreamento de materiais no SAP, geração de indicadores e automação de planilhas Excel usando programação VBA.
 
+---
+
 ## Trabalho Voluntário
 **Diretor de Communicação, Centro Acadêmico de Engenharia, (2014 - 2016)** 
 - Coordenei a comunicação entre o centro acadêmico e os estudantes.
@@ -66,6 +72,8 @@ Estruturei e executei todo o fluxo de processo de ML para o departamento.
 - Inglês avançado.
 - Espanhol básico.
 - Português nativo.
+
+---
 
 # 💻 Últimos Projetos
 Atualmente, tenho 12 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
