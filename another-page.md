@@ -1,7 +1,5 @@
 ## Hi there, I'm Rafael - Data Scientist, Master's Student (USP).
 
-[English version](https://rafaelgard.github.io/another-page.html)
-
 # Data Scientist
 
 #### Technical Skills: Python, Machine Learning, SQL, Operational Research, Optimization, Logistics, Power BI, Azure.
@@ -167,3 +165,4 @@ You can reach me out on any channels below!
 - I also have a blog at [Medium](https://https://rafael-gardel.medium.com/)
 - You can also send me an [email](mailto:rafaelgardel@usp.br)
 
+[back](https://rafaelgard.github.io/)
