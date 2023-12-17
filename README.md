@@ -33,6 +33,13 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 ---
 
 ## Experiência Detalhada de Trabalho
+
+**Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Atualmente__)**:
+Atualmente, estou desenvolvendo projetos como freelancer em Python para duas empresas. Em ambos os projetos, estou utilizando NLP e machine learning para otimizar as estratégias de marketing e aumentar as vendas. 
+
+- Processamento de linguagem natural (NLP) por meio de transformers.
+- Criação de modelos de classificação e regressão.
+
 **Cientista de Dados @ Thera Consulting (_Março 2023 - _Julho 2023__)**:
 Trabalhei como cientista de dados, modelando e criando métodos específicos para um projeto de otimização envolvendo Brasil, China e Áustria.
 - Modelagem matemática de problemas logísticos usando Gurobi.
