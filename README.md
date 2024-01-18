@@ -34,7 +34,10 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 
 ## Experiência Detalhada de Trabalho
 
-**Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Atualmente__)**:
+**Analista de Dados @ Milenio Capital (_Janeiro 2024 - _Atualmente__)**:
+Desenvolvimento e melhoria de dashboards no power bi e automação de atividades com Python.
+
+**Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Janeiro 2024__)**:
 Atualmente, estou desenvolvendo projetos como freelancer em Python para duas empresas. Em ambos os projetos, estou utilizando NLP e machine learning para otimizar as estratégias de marketing e aumentar as vendas. 
 
 - Processamento de linguagem natural (NLP) por meio de transformers.
