@@ -11,6 +11,7 @@ Já trabalhei como Cientista de Dados com foco em logística e analista de CRM e
 Sou mestre em Engenharia de Produção na Poli-USP, com foco em Pesquisa Operacional, com destaque para modelagem matemática e otimização utilizando ferramentas como Gurobi e Pyomo, especialmente aplicadas a problemas logísticos e financeiros.
 
 ---
+
 ## Experiência Detalhada de Trabalho
 
 **Cientista de Dados @ BRQ(Ambev) (_Maio 2024 - _Atualmente__)**:
@@ -48,6 +49,7 @@ Estruturei e executei todo o fluxo de processo de ML para o departamento.
 - Trabalhei em três empresas nos setores de Petróleo e Gás e Fibra Óptica, realizando atividades como mapeamento de processos, rastreamento de materiais no SAP, geração de indicadores e automação de planilhas Excel usando programação VBA.
 
 ---
+
 ## Educação
 - Mestre em Engenharia de Produção | Universidade de São Paulo (USP): 
 O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_2020_ - _2024_)	
@@ -57,7 +59,9 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Possuo 12 publicações, sendo 1 dissertação de mestrado em Engenharia de Produção, 5 capítulos de livro, 4 apresentações em congresso, 2 artigos e ministrei 2 minicursos de Python para Engenharia. Também possuo diversas publicações no Medium sobre gerenciamento de projetos, VBA e pesquisa científica.
 
 - Ainda na graduação em Engenharia de Produção na UFF, participei de uma empresa júnior, atuando como diretor de marketing e também fui um dos fundadores do centro academico de Engenharia de Produção (CAEPRO) na área de Marketing.
+
 ---
+
 ## Linguagens e Ferramentas
 - Python (Numpy, Numba, Pandas, Scikit-learn, TensorFlow, Seaborn, Plotly, Matplotlib)
 - Criação de testes automatizados (Pytest, Github actions)
@@ -76,6 +80,8 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - C++
 - VBA
 
+---
+
 ## Minha experiência com programação
 
 - Python, Machine Learning, SQL, Pesquisa Operacional, Otimização, Logistica, Power BI, Docker, Azure, GCP.
@@ -83,6 +89,8 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Julia e C++: Foco em criação de heurísticas para problemas de otimização.
 
 - Modelos de classificação, regressão, NLP, LLM, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
+
+---
 
 ## Trabalho Voluntário
 **Diretor de Communicação, Centro Acadêmico de Engenharia, (2014 - 2016)** 
@@ -92,12 +100,14 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Gerenciei relacionamentos da empresa com clientes e stakeholders.
 - Estruturei prospecção de clientes e parceiros.
 - Implementei estratégias de retenção de clientes.
+
 ---
 
 ### Idiomas
 - Inglês avançado.
 - Espanhol básico.
 - Português nativo.
+
 ---
 
 # 💻 Últimos Projetos
