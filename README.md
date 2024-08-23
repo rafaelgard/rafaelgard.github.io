@@ -2,39 +2,61 @@
 
 [English version](https://rafaelgard.github.io/another-page.html)
 
-Possuo 7 anos de experiência em programação e 3 anos de experiência com python, sql e análise de dados. Já trabalhei como Cientista de Dados com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito.
+Possuo 7 anos de experiência em programação e 4 anos de experiência com python, modelagem matemática, sql e análise de dados. 
+
+Atualmente trabalho como Cientista de dados pleno prestando serviços para Ambev, atuo com modelagem matemática de problemas relacionados aos processos de produção de cerveja utilizando pesquisa operacional utilizando Python, Gurobi, Highspy e Pyomo.
+
+Já trabalhei como Cientista de Dados com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito.
+
+Sou mestre em Engenharia de Produção na Poli-USP, com foco em Pesquisa Operacional, com destaque para modelagem matemática e otimização utilizando ferramentas como Gurobi e Pyomo, especialmente aplicadas a problemas logísticos e financeiros.
 
 ## Minha experiência com programação:
 
 - Python, Machine Learning, SQL, Pesquisa Operacional, Otimização, Logistica, Power BI, Docker, Azure, GCP.
 
-- Modelos de classificação, regressão, NLP, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
+- Julia e C++: Foco em criação de heurísticas para problemas de otimização.
+
+- Modelos de classificação, regressão, NLP, LLM, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
 
 ---
 ## Educação
-- Mestrando, Engenharia de Produção | Universidade de São Paulo (USP): 
-O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_2020_ - _Atualmente_)	
+- Mestre em Engenharia de Produção | Universidade de São Paulo (USP): 
+O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_2020_ - 2024)	
 
 - Graduação, Engenharia de Produção	| Universidade Federal Fluminense (_Novembro 2019_)	 	
 
+- Possuo 12 publicações, sendo 1 dissertação de mestrado em Engenharia de Produção, 5 capítulos de livro, 4 apresentações em congresso, 2 artigos e ministrei 2 minicursos de Python para Engenharia. Também possuo diversas publicações no Medium sobre gerenciamento de projetos, VBA e pesquisa científica.
+
+- Ainda na graduação em Engenharia de Produção na UFF, participei de uma empresa júnior, atuando como diretor de marketing e também fui um dos fundadores do centro academico de Engenharia de Produção (CAEPRO) na área de Marketing.
 ---
 
 ## Linguagens e Ferramentas:
 
-- Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy)
+- Python (Numpy, Numba, Pandas, Scikit-learn, TensorFlow, Seaborn, Plotly, Matplotlib)
+- Criação de testes automatizados (Pytest, Github actions)
+- Refatoração (Pylint)
+- R (Análise Estatística)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
-- Power BI (Dax)
-- Gurobi, Pyomo and Highs.
+- Power Bi (DAX)
 - Azure
 - GCP
+- Microstrategy
+- Qlikview
+- Airflow
+- Docker
+- GIT
+- Julia
 - C++
-- VBA 
+- VBA
 
 ---
 
 ## Experiência Detalhada de Trabalho
 
-**Analista de Dados @ Milenio Capital (_Janeiro 2024 - _Atualmente__)**:
+**Cientista de Dados @ BRQ(Ambev) (_Maio 2024 - _Atualmente__)**:
+Desenvolvimento e melhoria de dashboards no power bi e automação de atividades com Python.
+
+**Analista de Dados @ Milenio Capital (_Janeiro 2024 - _Abril 2024__)**:
 Desenvolvimento e melhoria de dashboards no power bi e automação de atividades com Python.
 
 **Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Janeiro 2024__)**:
@@ -74,6 +96,8 @@ Estruturei e executei todo o fluxo de processo de ML para o departamento.
 - Gerenciei relacionamentos da empresa com clientes e stakeholders.
 - Estruturei prospecção de clientes e parceiros.
 - Implementei estratégias de retenção de clientes.
+
+
 
 ---
 
