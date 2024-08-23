@@ -9,36 +9,36 @@ I have previously worked as a Data Scientist focused on logistics and as a Senio
 I hold a master’s degree in Production Engineering from Poli-USP, with a focus on Operations Research, particularly in mathematical modeling and optimization using tools like Gurobi and Pyomo, especially applied to logistics and financial problems.
 
 ## Detailed Work Experience
-**Data Scientist @ BRQ (Ambev) (May 2024 - Present)**: At BRQ, I work for Ambev, performing the following key activities: Mathematical modeling of problems related to beer production processes using operations research with Gurobi and Pyomo;
+**Data Scientist @ BRQ (Ambev) (_May 2024_ - _Present_)**: At BRQ, I work for Ambev, performing the following key activities: Mathematical modeling of problems related to beer production processes using operations research with Gurobi and Pyomo;
 
-**Data Analyst @ Milenio Capital (January 2024 - April 2024)**: Development and improvement of dashboards in Power BI and automation of activities using Python.
+**Data Analyst @ Milenio Capital (_January 2024_ - _April 2024_)**: Development and improvement of dashboards in Power BI and automation of activities using Python.
 
-**Freelance Data Scientist @ Self-employed (July 2023 - January 2024)**: Currently, I am working on Python projects as a freelancer for two companies. In both projects, I am using NLP and machine learning to optimize marketing strategies and increase sales. 
+**Freelance Data Scientist @ Self-employed (_July 2023_ - _January 2024_)**: Currently, I am working on Python projects as a freelancer for two companies. In both projects, I am using NLP and machine learning to optimize marketing strategies and increase sales. 
 - Natural Language Processing (NLP) using transformers. 
 - Creation of classification and regression models.
 
-**Data Scientist @ Thera Consulting (March 2023 - July 2023)**: 
+**Data Scientist @ Thera Consulting (_March 2023_ - _July 2023_)**: 
 - I worked as a data scientist, modeling and creating specific methods for an optimization project involving Brazil, China, and Austria.
 - Mathematical modeling of logistics problems using Gurobi.
 - Refactoring Python code.
 - Version control of code with Git and testing using Azure and GCP platforms.
 
-**Senior BI CRM Analyst @ Cencosud (April 2022 - February 2023)**: I worked in the CRM and BI area for credit cards in several brands, performing the following main activities:
+**Senior BI CRM Analyst @ Cencosud (_April 2022_ - _February 2023_)**: I worked in the CRM and BI area for credit cards in several brands, performing the following main activities:
 
 - Generating insights from data analysis in QlikView, Power BI, and Microstrategy databases to increase conversion rates for campaigns and products.
 - Automating ETL processes, creating databases, and generating reports using QlikView (scripting and macros) and Python.
 - Migrating existing databases and reports from QlikView to Microstrategy in the cloud for faster report creation and insight generation.
 - Creating machine learning models (classification, clustering, regression, NLP, and data mining) for churn prediction, generating insights, and improving segmentation. I structured and executed the entire ML process flow for the department.
 
-**Teaching Assistant, University of São Paulo (USP) (April 2021 - July 2021)**:
+**Teaching Assistant, University of São Paulo (USP) (_April 2021_ - _July 2021_)**:
 
 - Provided support to students with questions about modeling and optimization in production systems courses.
-Engineering Internships, (August 2015 - May 2019)
+Engineering Internships, (_August 2015_ - _May 2019_)
 
 - Worked at three companies in the Oil & Gas and Optical Fiber sectors, performing activities such as process mapping, material tracking in SAP, generating indicators, and automating Excel spreadsheets using VBA programming.
 
 ## Education
-- Master’s Degree in Production Engineering | University of São Paulo (USP): My research focuses on offshore rig routing for oil and gas production. (2020 - 2024)
+- Master’s Degree in Production Engineering | University of São Paulo (USP): My research focuses on offshore rig routing for oil and gas production. (_2020 - 2024_)
 
 - Bachelor's Degree, Production Engineering | Federal Fluminense University (November 2019)
 

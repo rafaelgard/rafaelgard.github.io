@@ -10,30 +10,28 @@ Já trabalhei como Cientista de Dados com foco em logística e analista de CRM e
 
 Sou mestre em Engenharia de Produção na Poli-USP, com foco em Pesquisa Operacional, com destaque para modelagem matemática e otimização utilizando ferramentas como Gurobi e Pyomo, especialmente aplicadas a problemas logísticos e financeiros.
 
----
-
 ## Experiência Detalhada de Trabalho
 
-**Cientista de Dados @ BRQ(Ambev) (_Maio 2024 - _Atualmente__)**:
+**Cientista de Dados @ BRQ(Ambev) (_Maio 2024_ - _Atualmente_)**:
 Dentro da BRQ eu atuo para a empresa Ambev realizando as principais atividades: 
 Modelagem matemática de problemas relacionados aos processos de produção de cerveja utilizando pesquisa operacional utilizando Gurobi e Pyomo;
 
-**Analista de Dados @ Milenio Capital (_Janeiro 2024 - _Abril 2024__)**:
+**Analista de Dados @ Milenio Capital (_Janeiro 2024_ - _Abril 2024_)**:
 Desenvolvimento e melhoria de dashboards no power bi e automação de atividades com Python.
 
-**Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Janeiro 2024__)**:
+**Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Janeiro 2024_)**:
 Atualmente, estou desenvolvendo projetos como freelancer em Python para duas empresas. Em ambos os projetos, estou utilizando NLP e machine learning para otimizar as estratégias de marketing e aumentar as vendas. 
 
 - Processamento de linguagem natural (NLP) por meio de transformers.
 - Criação de modelos de classificação e regressão.
 
-**Cientista de Dados @ Thera Consulting (_Março 2023 - _Julho 2023__)**:
+**Cientista de Dados @ Thera Consulting (_Março 2023 - _Julho 2023_)**:
 Trabalhei como cientista de dados, modelando e criando métodos específicos para um projeto de otimização envolvendo Brasil, China e Áustria.
 - Modelagem matemática de problemas logísticos usando Gurobi.
 - Refatoração de código em Python.
 - Controle de versão de código com git e testes usando plataformas Azure e GCP.
 
-**Analista Sênior de BI de CRM @ Cencosud (_Abril 2022 - _Fevereiro 2023__)**:
+**Analista Sênior de BI de CRM @ Cencosud (_Abril 2022 - _Fevereiro 2023_)**:
 Trabalhei na área de CRM e BI de cartões de crédito para várias marcas, realizando as principais atividades:
 
 - Geração de insights a partir da análise de dados em bancos de dados QlikView, Power BI e Microstrategy para aumentar as taxas de conversão de campanhas e produtos.
@@ -42,13 +40,11 @@ Trabalhei na área de CRM e BI de cartões de crédito para várias marcas, real
 - Criação de modelos de machine learning (classificação, agrupamento, regressão, NLP e mineração de dados) para previsão de churn, gerando insights e uma melhor segmentação.
 Estruturei e executei todo o fluxo de processo de ML para o departamento.
 
-**Monitor, Universidade de São Paulo (USP) (_Abril 2021 - _Julho 2021__)** 
+**Monitor, Universidade de São Paulo (USP) (_Abril 2021 - _Julho 2021_)** 
 - Forneci suporte aos estudantes com dúvidas sobre modelagem e otimização de cursos de sistemas de produção.
 
-**Estágios em Engenharia, (_Agosto 2015 - _Maio 2019__)** 
+**Estágios em Engenharia, (_Agosto 2015 - _Maio 2019_)** 
 - Trabalhei em três empresas nos setores de Petróleo e Gás e Fibra Óptica, realizando atividades como mapeamento de processos, rastreamento de materiais no SAP, geração de indicadores e automação de planilhas Excel usando programação VBA.
-
----
 
 ## Educação
 - Mestre em Engenharia de Produção | Universidade de São Paulo (USP): 
@@ -59,8 +55,6 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Possuo 12 publicações, sendo 1 dissertação de mestrado em Engenharia de Produção, 5 capítulos de livro, 4 apresentações em congresso, 2 artigos e ministrei 2 minicursos de Python para Engenharia. Também possuo diversas publicações no Medium sobre gerenciamento de projetos, VBA e pesquisa científica.
 
 - Ainda na graduação em Engenharia de Produção na UFF, participei de uma empresa júnior, atuando como diretor de marketing e também fui um dos fundadores do centro academico de Engenharia de Produção (CAEPRO) na área de Marketing.
-
----
 
 ## Linguagens e Ferramentas
 - Python (Numpy, Numba, Pandas, Scikit-learn, TensorFlow, Seaborn, Plotly, Matplotlib)
@@ -80,8 +74,6 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - C++
 - VBA
 
----
-
 ## Minha experiência com programação
 
 - Python, Machine Learning, SQL, Pesquisa Operacional, Otimização, Logistica, Power BI, Docker, Azure, GCP.
@@ -89,8 +81,6 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Julia e C++: Foco em criação de heurísticas para problemas de otimização.
 
 - Modelos de classificação, regressão, NLP, LLM, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
-
----
 
 ## Trabalho Voluntário
 **Diretor de Communicação, Centro Acadêmico de Engenharia, (2014 - 2016)** 
@@ -101,14 +91,10 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Estruturei prospecção de clientes e parceiros.
 - Implementei estratégias de retenção de clientes.
 
----
-
 ### Idiomas
 - Inglês avançado.
 - Espanhol básico.
 - Português nativo.
-
----
 
 # 💻 Últimos Projetos
 Atualmente, tenho 12 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
