@@ -1,52 +1,76 @@
-## Hi there, I'm Rafael - Data Scientist, Master's Student (USP).
+## Hi there, I'm Rafael Gardel - Data Scientist, Master's Degree in Industrial Engineering (USP).
 
-# Data Scientist
+I have 7 years of programming experience and 4 years of experience with Python, mathematical modeling, SQL, and data analysis.
 
-#### Technical Skills: Python, Machine Learning, SQL, Operational Research, Optimization, Logistics, Power BI, Azure.
-## Education
-- MS., Industrial Engineering | University of São Paulo (USP) (Present): Research in Production Engineering in the field of operations research, focusing on optimizing vessel scheduling for offshore oil well production. (_At the moment_)	
+I currently work as a mid-level Data Scientist providing services to Ambev, where I focus on mathematical modeling of problems related to beer production processes using operations research, leveraging Python, Gurobi, Highspy, and Pyomo.
 
-- B.S., Industrial Engineering	| Federal Fluminense University (_November 2019_)	 			        		
+I have previously worked as a Data Scientist focused on logistics and as a Senior CRM and BI Analyst in a multinational retail company with a focus on credit cards.
 
-## Experience with:
-
-- ML classification, regression, NLP, clustering models, operations research mathematical models especialy involving VRP on Gurobi, Pyomo and Highs.
-
-### Languages and Tools:
-
-- Python (Numpy, Numba, Pandas, Scikit-learn, Keras, Seaborn, Plotly, Matplotlib, NLTK, Spacy)
-- SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
-- Power BI (Dax)
-- Gurobi, Pyomo and Highs.
-- Azure
-- GCP
-- C++
-- VBA 
+I hold a master’s degree in Production Engineering from Poli-USP, with a focus on Operations Research, particularly in mathematical modeling and optimization using tools like Gurobi and Pyomo, especially applied to logistics and financial problems.
 
 ## Detailed Work Experience
-**Data Scientist @ Thera Consulting (_March 2023 - _July 2023__)**:
-Worked as a data scientist, modeling and creating specific methods for an optimization
-project involving Brazil, China, and Áustria.
-- Mathematical modeling of logistical problems using Gurobi.
-- Code refactoring in Python.
-- Code versioning with git and testing using Azure and GCP platforms.
+**Data Scientist @ BRQ (Ambev) (May 2024 - Present)**: At BRQ, I work for Ambev, performing the following key activities: Mathematical modeling of problems related to beer production processes using operations research with Gurobi and Pyomo;
 
-**Senior CRM BI Analyst @ Cencosud (_April 2022 - _February 2023__)**:
-I worked in the CRM & BI area of ​​credit cards for several brands, carrying out the main activities:
+**Data Analyst @ Milenio Capital (January 2024 - April 2024)**: Development and improvement of dashboards in Power BI and automation of activities using Python.
 
-- Generated insights from data analysis in QlikView, Power BI, and Microstrategy databases to increase campaign and product conversion rates.
-- Automated ETL processes, created databases, and generated reports using QlikView (scripting and macros) and Python.
-- Migrated existing QlikView databases and reports to Microstrategy in the cloud for faster report creation and insight generation.
-- Created machine learning models (classification, clustering, regression, NLP, and data mining) for churn prediction, generating insights and better segmentation.
-- Structured and executed the entire ML process flow for the department.
-- Automated day-to-day tasks using Python
+**Freelance Data Scientist @ Self-employed (July 2023 - January 2024)**: Currently, I am working on Python projects as a freelancer for two companies. In both projects, I am using NLP and machine learning to optimize marketing strategies and increase sales. 
+- Natural Language Processing (NLP) using transformers. 
+- Creation of classification and regression models.
 
-**Teaching Assistant, University of São Paulo (USP) (_April 2021 - _July 2021__)** 
-- Provided support to students with questions about the modeling and optimization of production system course.
+**Data Scientist @ Thera Consulting (March 2023 - July 2023)**: 
+- I worked as a data scientist, modeling and creating specific methods for an optimization project involving Brazil, China, and Austria.
+- Mathematical modeling of logistics problems using Gurobi.
+- Refactoring Python code.
+- Version control of code with Git and testing using Azure and GCP platforms.
 
-**Engineering Internships, (_August 2015 - _May 2019__)** 
-- Worked in three companies in the Oil & Gas and Fiber Optics sectors, conducting activities such as process mapping, materials tracking in SAP, indicator generation, and
-Excel spreadsheet automation using VBA programming.
+**Senior BI CRM Analyst @ Cencosud (April 2022 - February 2023)**: I worked in the CRM and BI area for credit cards in several brands, performing the following main activities:
+
+- Generating insights from data analysis in QlikView, Power BI, and Microstrategy databases to increase conversion rates for campaigns and products.
+- Automating ETL processes, creating databases, and generating reports using QlikView (scripting and macros) and Python.
+- Migrating existing databases and reports from QlikView to Microstrategy in the cloud for faster report creation and insight generation.
+- Creating machine learning models (classification, clustering, regression, NLP, and data mining) for churn prediction, generating insights, and improving segmentation. I structured and executed the entire ML process flow for the department.
+
+**Teaching Assistant, University of São Paulo (USP) (April 2021 - July 2021)**:
+
+- Provided support to students with questions about modeling and optimization in production systems courses.
+Engineering Internships, (August 2015 - May 2019)
+
+- Worked at three companies in the Oil & Gas and Optical Fiber sectors, performing activities such as process mapping, material tracking in SAP, generating indicators, and automating Excel spreadsheets using VBA programming.
+
+## Education
+- Master’s Degree in Production Engineering | University of São Paulo (USP): My research focuses on offshore rig routing for oil and gas production. (2020 - 2024)
+
+- Bachelor's Degree, Production Engineering | Federal Fluminense University (November 2019)
+
+- I have 12 publications, including 1 master’s thesis in Production Engineering, 5 book chapters, 4 conference presentations, 2 articles, and I have taught 2 Python minicourses for Engineering. I also have various publications on Medium about project management, VBA, and scientific research.
+
+- During my undergraduate studies in Production Engineering at UFF, I participated in a junior enterprise, serving as marketing director and was one of the founders of the Production Engineering Academic Center (CAEPRO) in the marketing area.
+
+## Languages and Tools
+- Python (Numpy, Numba, Pandas, Scikit-learn, TensorFlow, Seaborn, Plotly, Matplotlib)
+- Automated testing (Pytest, Github actions)
+- Refactoring (Pylint)
+- R (Statistical Analysis)
+- SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
+- Power Bi (DAX)
+- Azure
+- GCP
+- Microstrategy
+- Qlikview
+- Airflow
+- Docker
+- GIT
+- Julia
+- C++
+- VBA
+
+## My Programming Experience
+- Python, Machine Learning, SQL, Operations Research, Optimization, Logistics, Power BI, Docker, Azure, GCP.
+
+- Julia and C++: Focus on creating heuristics for optimization problems.
+
+- Classification models, regression, NLP, LLM, clustering, and mathematical models for operations research, especially involving VRP in Gurobi, Pyomo, and Highs.
+
 
 ## Volunteer Work
 **Director of Communication, Academic Engineering Center, (2014 - 2016)** 
@@ -57,16 +81,13 @@ Excel spreadsheet automation using VBA programming.
 - Structured client and partner prospecting.
 - Implemented customer retention strategies.
 
-
-
 ### Languages:
 - Advanced English.
 - Basic Spanish.
 - Native Portuguese.
 
----
 
-# 💻 Latest Projects
+## 💻 Latest Projects
 Currently, I have 12 projects in my portfolio. You can check each of them below:
 
 <!-- BLOG-POST-LIST:START -->

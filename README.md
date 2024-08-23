@@ -1,4 +1,4 @@
-## Olá, Sou Rafael Gardel - Cientista de Dados, Mestrando em Engenharia de Produção (USP).
+## Olá, Sou Rafael Gardel - Cientista de Dados, Mestre em Engenharia de Produção (USP).
 
 [English version](https://rafaelgard.github.io/another-page.html)
 
