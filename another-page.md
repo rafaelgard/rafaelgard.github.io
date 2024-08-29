@@ -40,6 +40,8 @@ Engineering Internships, (_August 2015_ - _May 2019_)
 ## Education
 - Master’s Degree in Production Engineering | University of São Paulo (USP): My research focuses on offshore rig routing for oil and gas production. (_2020 - 2024_)
 
+- Link to my Master's Dissertation: [Scheduling of Heterogeneous Drillships in Offshore Activities Considering Eligibility.](https://www.teses.usp.br/teses/disponiveis/3/3136/tde-26082024-102601/pt-br.php)
+
 - Bachelor's Degree, Production Engineering | Federal Fluminense University (November 2019)
 
 - I have 12 publications, including 1 master’s thesis in Production Engineering, 5 book chapters, 4 conference presentations, 2 articles, and I have taught 2 Python minicourses for Engineering. I also have various publications on Medium about project management, VBA, and scientific research.

@@ -50,6 +50,8 @@ Estruturei e executei todo o fluxo de processo de ML para o departamento.
 - Mestre em Engenharia de Produção | Universidade de São Paulo (USP): 
 O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_2020_ - _2024_)	
 
+- Link da minha Dissertação de Mestrado: [Programação de navios sonda heterogêneos em atividades offshore considerando a elegibilidade.](https://www.teses.usp.br/teses/disponiveis/3/3136/tde-26082024-102601/pt-br.php)
+
 - Graduação, Engenharia de Produção	| Universidade Federal Fluminense (_Novembro 2019_)	 	
 
 - Possuo 12 publicações, sendo 1 dissertação de mestrado em Engenharia de Produção, 5 capítulos de livro, 4 apresentações em congresso, 2 artigos e ministrei 2 minicursos de Python para Engenharia. Também possuo diversas publicações no Medium sobre gerenciamento de projetos, VBA e pesquisa científica.
