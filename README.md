@@ -12,9 +12,10 @@ Sou mestre em Engenharia de Produção na Poli-USP, com foco em Pesquisa Operaci
 
 ## Experiência Detalhada de Trabalho
 
-**Cientista de Dados @ BRQ(Ambev) (_Maio 2024_ - _Atualmente_)**:
-Dentro da BRQ eu atuo para a empresa Ambev realizando as principais atividades: 
+**Cientista de Dados @ BRQ(Ambev) (_Maio 2024_ - _Outubro 2024_)**:
+Dentro da BRQ eu atuei para a empresa Ambev realizando as principais atividades: 
 Modelagem matemática de problemas relacionados aos processos de produção de cerveja utilizando pesquisa operacional utilizando Gurobi e Pyomo;
+- Criação de modelos exatos (MILP) para os processos de filtração e de refrigeração.
 
 **Analista de Dados @ Milenio Capital (_Janeiro 2024_ - _Abril 2024_)**:
 Desenvolvimento e melhoria de dashboards no power bi e automação de atividades com Python.
@@ -99,9 +100,16 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Português nativo.
 
 # 💻 Últimos Projetos
-Atualmente, tenho 12 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
+Atualmente, tenho 13 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
 
 <!-- BLOG-POST-LIST:START -->
+
+## Implementing an hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia
+![Alt text](images\genetic_alg.png)
+
+Este projeto teve como objetivo criar uma aplicação simples da meta-heurística algoritmo genético aplicado ao problema de roteamento de veiculos (VRP), utilizando a linguagem Julia. A linguagem Julia foi escolhida por ser uma linguagem de alta performance com velocidade comparada a da linguagem C.
+
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia)
 
 ## Projetos de Otimização com Gurobi, Highs e Pyomo
 ![Alt text](images/optimizations_projects.jpg)
@@ -120,6 +128,16 @@ Este repositório contém implementações de 4 problemas de otimização:
 
 - [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
 
+## Simulated Annealing
+![Alt text](images/Simulated_Annealing.jpg)
+
+Este projeto teve como objetivo criar uma aplicação simples e visual da meta-heurística Simulated Annealing no contexto de processamento de imagem.
+
+Partindo de uma matriz que representa uma imagem, o algoritmo converge gradualmente para a imagem alvo, e é possível observar todo o processo de conversão executado pelo algoritmo.
+
+O algoritmo utilizado é baseado no artigo original proposto por Kirkpatrick et al. (1983).
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Simulated-annealing)
+
 ## Text Based Nps Predictor
 ![Alt text](images/text_based_nps_predictor.png)
 
@@ -134,17 +152,6 @@ Usando o modelo, é possível acelerar a avaliação de comentários e a classif
 Um cliente concluiu uma pesquisa de satisfação e está muito insatisfeito? É possível detectar isso em tempo real com o modelo treinado e iniciar uma ação de prevenção de cancelamento, como acionar uma comunicação ou alerta no centro de relacionamento com o cliente.
 
 - [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/text_based_nps_predictor)
-
-## Simulated Annealing
-![Alt text](images/Simulated_Annealing.jpg)
-
-Este projeto teve como objetivo criar uma aplicação simples e visual da meta-heurística Simulated Annealing no contexto de processamento de imagem.
-
-Partindo de uma matriz que representa uma imagem, o algoritmo converge gradualmente para a imagem alvo, e é possível observar todo o processo de conversão executado pelo algoritmo.
-
-O algoritmo utilizado é baseado no artigo original proposto por Kirkpatrick et al. (1983).
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Simulated-annealing)
-
 
 ## Análise de Avaliações, NLP e ML do Starbucks
 ![Alt text](images/Starbucks_Reviews_EDA_NLP_ML.jpg)

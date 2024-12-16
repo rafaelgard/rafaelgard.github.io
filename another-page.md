@@ -9,7 +9,9 @@ I have previously worked as a Data Scientist focused on logistics and as a Senio
 I hold a master’s degree in Production Engineering from Poli-USP, with a focus on Operations Research, particularly in mathematical modeling and optimization using tools like Gurobi and Pyomo, especially applied to logistics and financial problems.
 
 ## Detailed Work Experience
-**Data Scientist @ BRQ (Ambev) (_May 2024_ - _Present_)**: At BRQ, I work for Ambev, performing the following key activities: Mathematical modeling of problems related to beer production processes using operations research with Gurobi and Pyomo;
+**Data Scientist @ BRQ (Ambev) (_May 2024_ - _October 2024_)**: Within BRQ I worked for the company Ambev carrying out the main activities: 
+- Mathematical modeling of problems related to beer production processes using operational research using Gurobi and Pyomo;
+- Creation of exact models (MILP) for filtration and refrigeration processes.
 
 **Data Analyst @ Milenio Capital (_January 2024_ - _April 2024_)**: Development and improvement of dashboards in Power BI and automation of activities using Python.
 
@@ -90,9 +92,16 @@ Engineering Internships, (_August 2015_ - _May 2019_)
 
 
 ## 💻 Latest Projects
-Currently, I have 12 projects in my portfolio. You can check each of them below:
+Currently, I have 13 projects in my portfolio. You can check each of them below:
 
 <!-- BLOG-POST-LIST:START -->
+
+## Implementing a hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia
+![Alt ​​text](images/genetic_alg.png)
+
+This project aimed to create a simple application of the genetic algorithm meta-heuristic applied to the vehicle routing problem (VRP), using the Julia language. The Julia language was chosen because it is a high-performance language with speed compared to the C language.
+
+- [Click here to see the project on GitHub](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia)
 
 ## Optimization Projects with Gurobi, Highs and Pyomo
 ![Alt text](images/optimizations_projects.jpg)
@@ -100,6 +109,16 @@ Currently, I have 12 projects in my portfolio. You can check each of them below:
 This repository contains implementations of 4 optimization problems, all developed using the Gurobipy, Pyomo, Highspy libraries, and the GLPK solver. The solutions provide optimized approaches to challenges related to vessel routing, fuel allocation on ships, and drone routing for surveillance of areas of interest.
 
 - [Click here to see here the project on github](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
+
+## Simulated Annealing
+![Alt text](images/Simulated_Annealing.jpg)
+
+This project aimed to create a simple and visual application of the Simulated Annealing metaheuristic in the context of image processing.
+
+Starting from a matrix that represents an image, the algorithm gradually converges to the target image, and it is possible to observe the entire conversion process executed by the algorithm.
+
+The algorithm used is based on the original article proposed by Kirkpatrick et al. (1983).
+- [Click here to see here the project on github](https://github.com/rafaelgard/Simulated-annealing)
 
 ## Text Based Nps Predictor
 ![Alt text](images/text_based_nps_predictor.png)
@@ -115,17 +134,6 @@ Using the model, it is possible to speed up the evaluation of comments and the N
 A customer completed a satisfaction survey and is very dissatisfied? It is possible to detect this in real time with the trained model and initiate a cancellation prevention action, for example triggering a communication or alert in the customer relationship center.
 
 - [Click here to see here the project on github](https://github.com/rafaelgard/text_based_nps_predictor)
-
-## Simulated Annealing
-![Alt text](images/Simulated_Annealing.jpg)
-
-This project aimed to create a simple and visual application of the Simulated Annealing metaheuristic in the context of image processing.
-
-Starting from a matrix that represents an image, the algorithm gradually converges to the target image, and it is possible to observe the entire conversion process executed by the algorithm.
-
-The algorithm used is based on the original article proposed by Kirkpatrick et al. (1983).
-- [Click here to see here the project on github](https://github.com/rafaelgard/Simulated-annealing)
-
 
 ## Starbucks Reviews EDA, NLP and ML
 ![Alt text](images/Starbucks_Reviews_EDA_NLP_ML.jpg)
