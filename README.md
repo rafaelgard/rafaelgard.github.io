@@ -100,7 +100,7 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Português nativo.
 
 # 💻 Últimos Projetos
-Atualmente, tenho 13 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
+Atualmente, tenho 14 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -110,6 +110,13 @@ Atualmente, tenho 13 projetos em meu portfólio. Você pode conferir cada um del
 Este projeto teve como objetivo criar uma aplicação simples da meta-heurística algoritmo genético aplicado ao problema de roteamento de veiculos (VRP), utilizando a linguagem Julia. A linguagem Julia foi escolhida por ser uma linguagem de alta performance com velocidade comparada a da linguagem C.
 
 - [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia)
+
+## OptiVision: Visualizing Optimization Algorithms
+![Alt text](images\OptiVision.png)
+
+O objetivo deste projeto é responder uma pergunta: Se uma LLM descrever um cenário que represente o funcionamento de diversos algoritmos de otimização e uma LDM criar imagens destes cenários, como eles seriam?
+
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/OptiVision-Visualizing-Optimization-Algorithms)
 
 ## Projetos de Otimização com Gurobi, Highs e Pyomo
 ![Alt text](images/optimizations_projects.jpg)

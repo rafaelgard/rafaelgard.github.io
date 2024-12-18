@@ -92,7 +92,7 @@ Engineering Internships, (_August 2015_ - _May 2019_)
 
 
 ## 💻 Latest Projects
-Currently, I have 13 projects in my portfolio. You can check each of them below:
+Currently, I have 14 projects in my portfolio. You can check each of them below:
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -102,6 +102,13 @@ Currently, I have 13 projects in my portfolio. You can check each of them below:
 This project aimed to create a simple application of the genetic algorithm meta-heuristic applied to the vehicle routing problem (VRP), using the Julia language. The Julia language was chosen because it is a high-performance language with speed compared to the C language.
 
 - [Click here to see the project on GitHub](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia)
+
+## OptiVision: Visualizing Optimization Algorithms
+![Alt ​​text](images\OptiVision.png)
+
+The objective of this project is to answer a question: If an LLM describes a scenario that represents the operation of several optimization algorithms and an LDM creates images of these scenarios, what would they look like?
+
+- [Click here to see the project on GitHub](https://github.com/rafaelgard/OptiVision-Visualizing-Optimization-Algorithms)
 
 ## Optimization Projects with Gurobi, Highs and Pyomo
 ![Alt text](images/optimizations_projects.jpg)
