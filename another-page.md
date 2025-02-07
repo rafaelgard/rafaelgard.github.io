@@ -10,7 +10,7 @@
 
 ## Hi there, I'm Rafael Gardel - Data Scientist, Master's Degree in Industrial Engineering (USP).
 
-[Portuguese version](https://rafaelgard.github.io)
+[Portuguese version](https://rafaelgard.github.io) |
 [Download Resume](https://drive.google.com/file/d/10YlPr81qNXXNJ_IY8C9VHkCBdZHSKksK/view?usp=sharing)
 
 I have 7 years of programming experience and 4 years of experience with Python, mathematical modeling, SQL, and data analysis.
