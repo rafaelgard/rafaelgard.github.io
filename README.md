@@ -10,7 +10,7 @@
 
 ## Olá, Sou Rafael Gardel - Cientista de Dados, Mestre em Engenharia de Produção (USP).
 
-[English version](https://rafaelgard.github.io/another-page.html)
+[English version](https://rafaelgard.github.io/another-page.html) |
 [Baixar Currículo](https://drive.google.com/file/d/1uusQeZ7AcLOnGCJtL1M--fYsjOPY0v6H/view?usp=sharing)
 
 Possuo 7 anos de experiência em programação e 4 anos de experiência com python, modelagem matemática, sql e análise de dados. 
