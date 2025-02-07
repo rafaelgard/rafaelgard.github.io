@@ -1,4 +1,17 @@
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9MDM5HFW5S"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9MDM5HFW5S');
+</script>
+
 ## Hi there, I'm Rafael Gardel - Data Scientist, Master's Degree in Industrial Engineering (USP).
+
+[Portuguese version](https://rafaelgard.github.io)
+[Download Resume](https://drive.google.com/file/d/10YlPr81qNXXNJ_IY8C9VHkCBdZHSKksK/view?usp=sharing)
 
 I have 7 years of programming experience and 4 years of experience with Python, mathematical modeling, SQL, and data analysis.
 
