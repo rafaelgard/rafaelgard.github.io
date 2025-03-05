@@ -15,13 +15,14 @@
 
 I have 7 years of programming experience and 4 years of experience with Python, mathematical modeling, SQL, and data analysis.
 
-I currently work as a mid-level Data Scientist providing services to Ambev, where I focus on mathematical modeling of problems related to beer production processes using operations research, leveraging Python, Gurobi, Highspy, and Pyomo.
-
-I have previously worked as a Data Scientist focused on logistics and as a Senior CRM and BI Analyst in a multinational retail company with a focus on credit cards.
+I currently work as a Senior Data Analyst at Shopee focused on First Mile. I have previously worked as a Data Scientist providing services to Ambev. I have also worked as a Data Scientist for Suzano focusing on logistics and as a CRM and BI Sr Analyst in a multinational retail company focusing on credit cards. I have extensive experience with mathematical modeling and operational research.
 
 I hold a master’s degree in Production Engineering from Poli-USP, with a focus on Operations Research, particularly in mathematical modeling and optimization using tools like Gurobi and Pyomo, especially applied to logistics and financial problems.
 
 ## Detailed Work Experience
+**Senior Data Analyst @ Shopee (_Feb 2025_)**: I currently work for the company Shopee carrying out the main activities: 
+- First Mile Logistics Data Analysis
+
 **Data Scientist @ BRQ (Ambev) (_May 2024_ - _October 2024_)**: Within BRQ I worked for the company Ambev carrying out the main activities: 
 - Mathematical modeling of problems related to beer production processes using operational research using Gurobi and Pyomo;
 - Creation of exact models (MILP) for filtration and refrigeration processes.

@@ -15,13 +15,14 @@
 
 Possuo 7 anos de experiência em programação e 4 anos de experiência com python, modelagem matemática, sql e análise de dados. 
 
-Atualmente trabalho como Cientista de dados pleno prestando serviços para Ambev, atuo com modelagem matemática de problemas relacionados aos processos de produção de cerveja utilizando pesquisa operacional utilizando Python, Gurobi, Highspy e Pyomo.
-
-Já trabalhei como Cientista de Dados com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito.
+Atualmente trabalho como Analista de dados Sênior na Shopee focado em First Mile, já trabalhei como Cientista de Dados prestando serviços para Ambev, também trabalhei como Cientista de Dados para a Suzano com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito. Tenho ampla experiência com modelagem matemática e pesquisa operacional.
 
 Sou mestre em Engenharia de Produção na Poli-USP, com foco em Pesquisa Operacional, com destaque para modelagem matemática e otimização utilizando ferramentas como Gurobi e Pyomo, especialmente aplicadas a problemas logísticos e financeiros.
 
 ## Experiência Detalhada de Trabalho
+
+**Senior Data Analyst @ Shopee (_Feb 2025_)**: I currently work for the company Shopee carrying out the main activities: 
+- Análise de dados focada na logistica de First Mile.
 
 **Cientista de Dados @ BRQ(Ambev) (_Maio 2024_ - _Outubro 2024_)**:
 Dentro da BRQ eu atuei para a empresa Ambev realizando as principais atividades: 
