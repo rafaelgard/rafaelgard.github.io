@@ -11,9 +11,9 @@
 ## Hi there, I'm Rafael Gardel - Data Scientist, Master's Degree in Industrial Engineering (USP).
 
 [Portuguese version](https://rafaelgard.github.io) |
-[Download Resume](https://drive.google.com/file/d/10YlPr81qNXXNJ_IY8C9VHkCBdZHSKksK/view?usp=sharing)
+[Download Resume](https://drive.google.com/file/d/1Lnfaxla0Cgn-LYMR7Zjg4AbQGZ6oPmNs/view?usp=sharing)
 
-I have 7 years of programming experience and 4 years of experience with Python, mathematical modeling, SQL, and data analysis.
+I have 4 years of experience with Python, mathematical modeling, SQL, and data analysis.
 
 I currently work as a Senior Data Analyst at Shopee focused on First Mile. I have previously worked as a Data Scientist providing services to Ambev. I have also worked as a Data Scientist for Suzano focusing on logistics and as a CRM and BI Sr Analyst in a multinational retail company focusing on credit cards. I have extensive experience with mathematical modeling and operational research.
 
@@ -106,9 +106,16 @@ Engineering Internships, (_August 2015_ - _May 2019_)
 
 
 ## 💻 Latest Projects
-Currently, I have 14 projects in my portfolio. You can check each of them below:
+Currently, I have 15 projects in my portfolio. You can check each of them below:
 
 <!-- BLOG-POST-LIST:START -->
+
+## AI Trip Guide
+![Alt text](images\AI-Trip-Guide.png)
+
+A smart assistant that summarizes insights from dozens of travel videos and helps you plan your trip to **Chile**.
+
+- [Click here to see the project on GitHub](https://github.com/rafaelgard/AI-Trip-Guide)
 
 ## Implementing a hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia
 ![Alt ​​text](images/genetic_alg.png)

@@ -11,9 +11,9 @@
 ## Olá, Sou Rafael Gardel - Cientista de Dados, Mestre em Engenharia de Produção (USP).
 
 [English version](https://rafaelgard.github.io/another-page.html) |
-[Baixar Currículo](https://drive.google.com/file/d/1uusQeZ7AcLOnGCJtL1M--fYsjOPY0v6H/view?usp=sharing)
+[Baixar Currículo](https://drive.google.com/file/d/1Ai264-dXQZk6RwhTv3iLvzI6CkfaHQ-_/view)
 
-Possuo 7 anos de experiência em programação e 4 anos de experiência com python, modelagem matemática, sql e análise de dados. 
+Possuo 4 anos de experiência com python, modelagem matemática, sql e análise de dados. 
 
 Atualmente trabalho como Analista de dados Sênior na Shopee focado em First Mile, já trabalhei como Cientista de Dados prestando serviços para Ambev, também trabalhei como Cientista de Dados para a Suzano com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito. Tenho ampla experiência com modelagem matemática e pesquisa operacional.
 
@@ -112,9 +112,16 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 - Português nativo.
 
 # 💻 Últimos Projetos
-Atualmente, tenho 14 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
+Atualmente, tenho 15 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
 
 <!-- BLOG-POST-LIST:START -->
+
+## AI Trip Guide
+![Alt text](images\AI-Trip-Guide.png)
+
+Projeto de portfólio que utiliza LLMs open-source para processar, classificar e responder perguntas com base em vídeos reais do YouTube sobre o Chile.
+
+- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/AI-Trip-Guide)
 
 ## Implementing an hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia
 ![Alt text](images\genetic_alg.png)
