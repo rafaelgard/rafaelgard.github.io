@@ -10,32 +10,36 @@
 
 ## Olá, Sou Rafael Gardel - Cientista de Dados, Mestre em Engenharia de Produção (USP).
 
-[English version](https://rafaelgard.github.io/another-page.html) |
+[English version](https://rafaelgard.github.io/README_english.html) |
 [Baixar Currículo](https://drive.google.com/file/d/1Ai264-dXQZk6RwhTv3iLvzI6CkfaHQ-_/view)
 
-Possuo 4 anos de experiência com python, modelagem matemática, sql e análise de dados. 
-
-Atualmente trabalho como Analista de dados Sênior na Shopee focado em First Mile, já trabalhei como Cientista de Dados prestando serviços para Ambev, também trabalhei como Cientista de Dados para a Suzano com foco em logística e analista de CRM e BI Sr em uma multinacional do setor do varejo com foco em cartão de crédito. Tenho ampla experiência com modelagem matemática e pesquisa operacional.
-
-Sou mestre em Engenharia de Produção na Poli-USP, com foco em Pesquisa Operacional, com destaque para modelagem matemática e otimização utilizando ferramentas como Gurobi e Pyomo, especialmente aplicadas a problemas logísticos e financeiros.
+Possuo Profissional 4 anos de experiência em Python, LLM, IA generativa, modelagem matemática, SQL e análise de dados. Atuei como Cientista de Dados para empresas como Shopee, Ambev e Suzano, com foco em modelagem matemática, pesquisa operacional e otimização de processos. Sou mestre em Engenharia de Produção pela Poli-USP, com destaque em modelagem matemática aplicada a problemas logísticos e financeiros. Experiência em machine learning, automação e visualização de dados para geração de insights estratégicos.
 
 ## Experiência Detalhada de Trabalho
 
-**Senior Data Analyst @ Shopee (_Feb 2025_)**: I currently work for the company Shopee carrying out the main activities: 
-- Análise de dados focada na logistica de First Mile.
+**Senior Data Analyst @ Shopee (_Feb 2025_ - Atualmente)**: Atualmente trabalho na Shopee realizando as seguintes atividades: 
+- Criei modelos matemáticos utilizando pesquisa operacional e previsão por séries
+temporais para otimizar os processos de entregas de first mile, aumentando o
+número de pacotes entregues pela empresa.
+- Desenvolvi pipelines de dados e dashboards para analisar a performance das
+equipes logísticas em nossos hubs e centros de distribuição. Esse projeto permitiu
+identificar gargalos operacionais, perfis ideais de colaboradores e deu suporte a
+renegociações contratuais com prestadores de serviço terceirizados.
+- Criação de agentes de LLM usando transformers para facilitar a geração de insights
+sobre a performance de hubs logísticos.
 
 **Cientista de Dados @ BRQ(Ambev) (_Maio 2024_ - _Outubro 2024_)**:
 Dentro da BRQ eu atuei para a empresa Ambev realizando as principais atividades: 
-Modelagem matemática de problemas relacionados aos processos de produção de cerveja utilizando pesquisa operacional utilizando Gurobi e Pyomo;
-- Criação de modelos exatos (MILP) para os processos de filtração e de refrigeração.
 
-**Analista de Dados @ Milenio Capital (_Janeiro 2024_ - _Abril 2024_)**:
-Desenvolvimento e melhoria de dashboards no power bi e automação de atividades com Python.
+- Modelagem matemática de problemas relacionados aos processos de produção de cerveja utilizando pesquisa operacional utilizando Gurobi e Pyomo.
+- Desenvolvimento de modelos matemáticos utilizando pesquisa operacional e
+previsão de séries temporais para otimizar processos de filtração e refrigeração na Ambev.
+- Implementação dos modelos em diversas cervejarias, gerando aumento de
+produtividade e impacto positivo na receita em 18 países.
 
 **Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Janeiro 2024_)**:
-Atualmente, estou desenvolvendo projetos como freelancer em Python para duas empresas. Em ambos os projetos, estou utilizando NLP e machine learning para otimizar as estratégias de marketing e aumentar as vendas. 
-
-- Processamento de linguagem natural (NLP) por meio de transformers.
+Desenvolvimento de projetos como freelancer em Python para duas empresas. Em ambos os projetos, estou utilizando NLP e machine learning para otimizar as estratégias de marketing e aumentar as vendas. 
+- Processamento de linguagem natural (NLP) por meio de modelos transformers.
 - Criação de modelos de classificação e regressão.
 
 **Cientista de Dados @ Thera Consulting (_Março 2023 - _Julho 2023_)**:
@@ -73,13 +77,13 @@ O foco da minha pesquisa é o roteamento de sondas offshore para produção de �
 
 ## Linguagens e Ferramentas
 - Python (Numpy, Numba, Pandas, Scikit-learn, TensorFlow, Seaborn, Plotly, Matplotlib)
+- LLM (Tensorflow, huggingface, llama_index,Langchain, CrewAI, Langflow)
 - Criação de testes automatizados (Pytest, Github actions)
 - Refatoração (Pylint)
 - R (Análise Estatística)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
 - Power Bi (DAX)
-- Azure
-- GCP
+- AWS (EC2, S3, SageMaker)
 - Microstrategy
 - Qlikview
 - Airflow

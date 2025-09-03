@@ -13,23 +13,19 @@
 [Portuguese version](https://rafaelgard.github.io) |
 [Download Resume](https://drive.google.com/file/d/1Lnfaxla0Cgn-LYMR7Zjg4AbQGZ6oPmNs/view?usp=sharing)
 
-I have 4 years of experience with Python, mathematical modeling, SQL, and data analysis.
-
-I currently work as a Senior Data Analyst at Shopee focused on First Mile. I have previously worked as a Data Scientist providing services to Ambev. I have also worked as a Data Scientist for Suzano focusing on logistics and as a CRM and BI Sr Analyst in a multinational retail company focusing on credit cards. I have extensive experience with mathematical modeling and operational research.
-
-I hold a master’s degree in Production Engineering from Poli-USP, with a focus on Operations Research, particularly in mathematical modeling and optimization using tools like Gurobi and Pyomo, especially applied to logistics and financial problems.
+I have 4 years of professional experience in Python, LLM, generative AI, mathematical modeling, SQL, and data analysis. I have worked as a Data Scientist for companies such as Shopee, Ambev, and Suzano, focusing on mathematical modeling, operations research, and process optimization. I hold a Master’s degree in Production Engineering from Poli-USP, with an emphasis on mathematical modeling applied to logistics and financial problems. Experienced in machine learning, automation, and data visualization for generating strategic insights.
 
 ## Detailed Work Experience
 **Senior Data Analyst @ Shopee (_Feb 2025_)**: I currently work for the company Shopee carrying out the main activities: 
-- First Mile Logistics Data Analysis
+- I created mathematical models using operations research and time series forecasting to optimize first-mile delivery processes, increasing the number of packages delivered by the company.
+- I developed data pipelines and dashboards to analyze the performance of logistics teams in our hubs and distribution centers. This project made it possible to identify operational bottlenecks, ideal employee profiles, and supported contract renegotiations with third-party service providers.
+- I created LLM agents using transformers to facilitate the generation of insights into the performance of logistics hubs.
 
 **Data Scientist @ BRQ (Ambev) (_May 2024_ - _October 2024_)**: Within BRQ I worked for the company Ambev carrying out the main activities: 
 - Mathematical modeling of problems related to beer production processes using operational research using Gurobi and Pyomo;
 - Creation of exact models (MILP) for filtration and refrigeration processes.
 
-**Data Analyst @ Milenio Capital (_January 2024_ - _April 2024_)**: Development and improvement of dashboards in Power BI and automation of activities using Python.
-
-**Freelance Data Scientist @ Self-employed (_July 2023_ - _January 2024_)**: Currently, I am working on Python projects as a freelancer for two companies. In both projects, I am using NLP and machine learning to optimize marketing strategies and increase sales. 
+**Freelance Data Scientist @ Self-employed (_July 2023_ - _January 2024_)**: Python projects as a freelancer for two companies. In both projects, I am using NLP and machine learning to optimize marketing strategies and increase sales. 
 - Natural Language Processing (NLP) using transformers. 
 - Creation of classification and regression models.
 
@@ -66,13 +62,13 @@ Engineering Internships, (_August 2015_ - _May 2019_)
 
 ## Languages and Tools
 - Python (Numpy, Numba, Pandas, Scikit-learn, TensorFlow, Seaborn, Plotly, Matplotlib)
+- LLM (Tensorflow, huggingface, llama_index,Langchain, CrewAI, Langflow)
 - Automated testing (Pytest, Github actions)
 - Refactoring (Pylint)
 - R (Statistical Analysis)
 - SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
 - Power Bi (DAX)
-- Azure
-- GCP
+- AWS (EC2, S3, SageMaker)
 - Microstrategy
 - Qlikview
 - Airflow
@@ -83,7 +79,7 @@ Engineering Internships, (_August 2015_ - _May 2019_)
 - VBA
 
 ## My Programming Experience
-- Python, Machine Learning, SQL, Operations Research, Optimization, Logistics, Power BI, Docker, Azure, GCP.
+- Python, Machine Learning, SQL, Operations Research, Optimization, Logistics, Power BI, Docker, AWS.
 
 - Julia and C++: Focus on creating heuristics for optimization problems.
 
