@@ -105,14 +105,24 @@ _Concluído em 2019_
 ## 💻 Projetos em Destaque
 Atualmente mantenho diversos projetos de **otimização, IA e ciência de dados aplicada** no meu GitHub, incluindo:
 
-- **AI Trip Guide** — LLMs open-source aplicados a vídeos do YouTube  
-- **Projetos de Otimização com Gurobi, Pyomo e HiGHS**  
-- **Meta-heurísticas (GA, SA) em Julia**  
-- **NLP e Machine Learning aplicados a problemas reais**
+👉 **[Clique aqui para ver todos os projetos](projects.md)**
 
-_(Veja a seção completa de projetos abaixo 👇)_
+### AI Trip Guide
+![AI Trip Guide](images/AI-Trip-Guide.png)
+
+LLMs open-source aplicados ao processamento e análise de vídeos do YouTube sobre viagens.
+
+🔗 https://github.com/rafaelgard/AI-Trip-Guide
 
 ---
+
+### Projetos de Otimização com Gurobi, Pyomo e HiGHS
+![Otimização](images/optimizations_projects.jpg)
+
+Implementações de problemas reais de pesquisa operacional, incluindo routing, scheduling e alocação de recursos.
+
+🔗 https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo
+
 
 ## 🌍 Idiomas
 - Português: Nativo  
