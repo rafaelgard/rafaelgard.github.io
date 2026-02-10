@@ -11,8 +11,8 @@
 # 👋 Olá, sou Rafael Gardel  
 **Cientista de Dados | Mestre em Engenharia de Produção (USP) | Otimização Matemática & IA**
 
-[English version](https://rafaelgard.github.io/README_english.html) |
-[Baixar Currículo](https://drive.google.com/file/d/1Ai264-dXQZk6RwhTv3iLvzI6CkfaHQ-_/view)
+<!-- [English version](https://rafaelgard.github.io/README_english.html) | -->
+[Baixar Currículo](https://docs.google.com/document/d/1LW_Bdoo3i0D-tMfshOOvrfMZQ47NjYHP/edit?usp=sharing&ouid=109115036455144430636&rtpof=true&sd=true)
 
 Sou **Cientista de Dados** com mais de **5 anos de experiência** em **Python, otimização matemática, pesquisa operacional, SQL, IA generativa e machine learning**, atuando em projetos reais com impacto financeiro e operacional.
 
