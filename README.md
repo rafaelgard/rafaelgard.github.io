@@ -8,246 +8,120 @@
   gtag('config', 'G-9MDM5HFW5S');
 </script>
 
-## Olá, Sou Rafael Gardel - Cientista de Dados, Mestre em Engenharia de Produção (USP).
+# 👋 Olá, sou Rafael Gardel  
+**Cientista de Dados | Mestre em Engenharia de Produção (USP) | Otimização Matemática & IA**
 
 [English version](https://rafaelgard.github.io/README_english.html) |
 [Baixar Currículo](https://drive.google.com/file/d/1Ai264-dXQZk6RwhTv3iLvzI6CkfaHQ-_/view)
 
-Possuo Profissional 4 anos de experiência em Python, LLM, IA generativa, modelagem matemática, SQL e análise de dados. Atuei como Cientista de Dados para empresas como Shopee, Ambev e Suzano, com foco em modelagem matemática, pesquisa operacional e otimização de processos. Sou mestre em Engenharia de Produção pela Poli-USP, com destaque em modelagem matemática aplicada a problemas logísticos e financeiros. Experiência em machine learning, automação e visualização de dados para geração de insights estratégicos.
+Sou **Cientista de Dados** com mais de **5 anos de experiência** em **Python, otimização matemática, pesquisa operacional, SQL, IA generativa e machine learning**, atuando em projetos reais com impacto financeiro e operacional.
 
-## Experiência Detalhada de Trabalho
-
-**Senior Data Analyst @ Shopee (_Feb 2025_ - Atualmente)**: Atualmente trabalho na Shopee realizando as seguintes atividades: 
-- Criei modelos matemáticos utilizando pesquisa operacional e previsão por séries
-temporais para otimizar os processos de entregas de first mile, aumentando o
-número de pacotes entregues pela empresa.
-- Desenvolvi pipelines de dados e dashboards para analisar a performance das
-equipes logísticas em nossos hubs e centros de distribuição. Esse projeto permitiu
-identificar gargalos operacionais, perfis ideais de colaboradores e deu suporte a
-renegociações contratuais com prestadores de serviço terceirizados.
-- Criação de agentes de LLM usando transformers para facilitar a geração de insights
-sobre a performance de hubs logísticos.
-
-**Cientista de Dados @ BRQ(Ambev) (_Maio 2024_ - _Outubro 2024_)**:
-Dentro da BRQ eu atuei para a empresa Ambev realizando as principais atividades: 
-
-- Modelagem matemática de problemas relacionados aos processos de produção de cerveja utilizando pesquisa operacional utilizando Gurobi e Pyomo.
-- Desenvolvimento de modelos matemáticos utilizando pesquisa operacional e
-previsão de séries temporais para otimizar processos de filtração e refrigeração na Ambev.
-- Implementação dos modelos em diversas cervejarias, gerando aumento de
-produtividade e impacto positivo na receita em 18 países.
-
-**Cientista de Dados Freelancer@ Autonomo (_Julho 2023 - _Janeiro 2024_)**:
-Desenvolvimento de projetos como freelancer em Python para duas empresas. Em ambos os projetos, estou utilizando NLP e machine learning para otimizar as estratégias de marketing e aumentar as vendas. 
-- Processamento de linguagem natural (NLP) por meio de modelos transformers.
-- Criação de modelos de classificação e regressão.
-
-**Cientista de Dados @ Thera Consulting (_Março 2023 - _Julho 2023_)**:
-Trabalhei como cientista de dados, modelando e criando métodos específicos para um projeto de otimização envolvendo Brasil, China e Áustria.
-- Modelagem matemática de problemas logísticos usando Gurobi.
-- Refatoração de código em Python.
-- Controle de versão de código com git e testes usando plataformas Azure e GCP.
-
-**Analista Sênior de BI de CRM @ Cencosud (_Abril 2022 - _Fevereiro 2023_)**:
-Trabalhei na área de CRM e BI de cartões de crédito para várias marcas, realizando as principais atividades:
-
-- Geração de insights a partir da análise de dados em bancos de dados QlikView, Power BI e Microstrategy para aumentar as taxas de conversão de campanhas e produtos.
-- Automatização de processos ETL, criei bancos de dados e gerei relatórios usando QlikView (scripting e macros) e Python.
-- Migração de bancos de dados e relatórios existentes do QlikView para o Microstrategy na nuvem para uma criação de relatórios e geração de insights mais rápidos.
-- Criação de modelos de machine learning (classificação, agrupamento, regressão, NLP e mineração de dados) para previsão de churn, gerando insights e uma melhor segmentação.
-Estruturei e executei todo o fluxo de processo de ML para o departamento.
-
-**Monitor, Universidade de São Paulo (USP) (_Abril 2021 - _Julho 2021_)** 
-- Forneci suporte aos estudantes com dúvidas sobre modelagem e otimização de cursos de sistemas de produção.
-
-**Estágios em Engenharia, (_Agosto 2015 - _Maio 2019_)** 
-- Trabalhei em três empresas nos setores de Petróleo e Gás e Fibra Óptica, realizando atividades como mapeamento de processos, rastreamento de materiais no SAP, geração de indicadores e automação de planilhas Excel usando programação VBA.
-
-## Educação
-- Mestre em Engenharia de Produção | Universidade de São Paulo (USP): 
-O foco da minha pesquisa é o roteamento de sondas offshore para produção de óleo e gás. (_2020_ - _2024_)	
-
-- Link da minha Dissertação de Mestrado: [Programação de navios sonda heterogêneos em atividades offshore considerando a elegibilidade.](https://www.teses.usp.br/teses/disponiveis/3/3136/tde-26082024-102601/pt-br.php)
-
-- Graduação, Engenharia de Produção	| Universidade Federal Fluminense (_Novembro 2019_)	 	
-
-- Possuo 12 publicações, sendo 1 dissertação de mestrado em Engenharia de Produção, 5 capítulos de livro, 4 apresentações em congresso, 2 artigos e ministrei 2 minicursos de Python para Engenharia. Também possuo diversas publicações no Medium sobre gerenciamento de projetos, VBA e pesquisa científica.
-
-- Ainda na graduação em Engenharia de Produção na UFF, participei de uma empresa júnior, atuando como diretor de marketing e também fui um dos fundadores do centro academico de Engenharia de Produção (CAEPRO) na área de Marketing.
-
-## Linguagens e Ferramentas
-- Python (Numpy, Numba, Pandas, Scikit-learn, TensorFlow, Seaborn, Plotly, Matplotlib)
-- LLM (Tensorflow, huggingface, llama_index,Langchain, CrewAI, Langflow)
-- Criação de testes automatizados (Pytest, Github actions)
-- Refatoração (Pylint)
-- R (Análise Estatística)
-- SQL (Mysql, SQL Server, PostgreSQL, DBeaver)
-- Power Bi (DAX)
-- AWS (EC2, S3, SageMaker)
-- Microstrategy
-- Qlikview
-- Airflow
-- Docker
-- GIT
-- Julia
-- C++
-- VBA
-
-## Minha experiência com programação
-
-- Python, Machine Learning, SQL, Pesquisa Operacional, Otimização, Logistica, Power BI, Docker, Azure, GCP.
-
-- Julia e C++: Foco em criação de heurísticas para problemas de otimização.
-
-- Modelos de classificação, regressão, NLP, LLM, clusterização e modelos matemáticos de pesquisa operacional, especialmente envolvendo VRP no Gurobi, Pyomo e Highs.
-
-## Trabalho Voluntário
-**Diretor de Communicação, Centro Acadêmico de Engenharia, (2014 - 2016)** 
-- Coordenei a comunicação entre o centro acadêmico e os estudantes.
-
-**Diretor de Marketing, Empresa Júnior Focus Consultoria, (2014 - 2016)**
-- Gerenciei relacionamentos da empresa com clientes e stakeholders.
-- Estruturei prospecção de clientes e parceiros.
-- Implementei estratégias de retenção de clientes.
-
-### Idiomas
-- Inglês avançado.
-- Espanhol básico.
-- Português nativo.
-
-# 💻 Últimos Projetos
-Atualmente, tenho 15 projetos em meu portfólio. Você pode conferir cada um deles abaixo:
-
-<!-- BLOG-POST-LIST:START -->
-
-## AI Trip Guide
-![Alt text](images\AI-Trip-Guide.png)
-
-Projeto de portfólio que utiliza LLMs open-source para processar, classificar e responder perguntas com base em vídeos reais do YouTube sobre o Chile.
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/AI-Trip-Guide)
-
-## Implementing an hybrid of genetic algorithm and simulated annealing for the vehicle routing problem in Julia
-![Alt text](images\genetic_alg.png)
-
-Este projeto teve como objetivo criar uma aplicação simples da meta-heurística algoritmo genético aplicado ao problema de roteamento de veiculos (VRP), utilizando a linguagem Julia. A linguagem Julia foi escolhida por ser uma linguagem de alta performance com velocidade comparada a da linguagem C.
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Implementing-a-genetic-algorithm-for-the-vehicle-routing-problem-in-Julia)
-
-## OptiVision: Visualizing Optimization Algorithms
-![Alt text](images\OptiVision.png)
-
-O objetivo deste projeto é responder uma pergunta: Se uma LLM descrever um cenário que represente o funcionamento de diversos algoritmos de otimização e uma LDM criar imagens destes cenários, como eles seriam?
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/OptiVision-Visualizing-Optimization-Algorithms)
-
-## Projetos de Otimização com Gurobi, Highs e Pyomo
-![Alt text](images/optimizations_projects.jpg)
-
-Este repositório contém implementações de 4 problemas de otimização:
-
-- Problema de Roterização de Embarcações com Múltiplas Capacidades e Minimização de Custos;
-
-- Problema de Roteirização de Embarcações com Múltiplas Capacidades e Programação de Embarques;
-
-- Problema de Alocação de Combustíveis em Navios com Múltiplas Capacidades em Terminais Portuários;
-
-- Roteirização de drones para vigilância de áreas estratégicas.
-
- Todos desenvolvidos usando as bibliotecas Gurobipy, Pyomo, Highspy e o solver GLPK. As soluções fornecem abordagens otimizadas para desafios relacionados ao roteamento de navios, alocação de combustível em navios e roteamento de drones para vigilância de áreas de interesse.
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Projetos_de_Otimizacao_com_Gurobi_Highs_e_Pyomo)
-
-## Simulated Annealing
-![Alt text](images/Simulated_Annealing.jpg)
-
-Este projeto teve como objetivo criar uma aplicação simples e visual da meta-heurística Simulated Annealing no contexto de processamento de imagem.
-
-Partindo de uma matriz que representa uma imagem, o algoritmo converge gradualmente para a imagem alvo, e é possível observar todo o processo de conversão executado pelo algoritmo.
-
-O algoritmo utilizado é baseado no artigo original proposto por Kirkpatrick et al. (1983).
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Simulated-annealing)
-
-## Text Based Nps Predictor
-![Alt text](images/text_based_nps_predictor.png)
-
-Este projeto teve como objetivo criar um classificador usando técnicas de NLP para prever o NPS (Net Promoter Score) de um cliente com base em comentários inseridos pelo usuário.
-
-A partir de um comentário, é possível indicar a previsão da classificação NPS do cliente, que pode ser: Detrator, neutro ou promotor.
-
-![Alt text](images/streamlit_record.gif)
-
-Usando o modelo, é possível acelerar a avaliação de comentários e a classificação NPS para permitir uma resposta mais rápida aos clientes da empresa.
-
-Um cliente concluiu uma pesquisa de satisfação e está muito insatisfeito? É possível detectar isso em tempo real com o modelo treinado e iniciar uma ação de prevenção de cancelamento, como acionar uma comunicação ou alerta no centro de relacionamento com o cliente.
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/text_based_nps_predictor)
-
-## Análise de Avaliações, NLP e ML do Starbucks
-![Alt text](images/Starbucks_Reviews_EDA_NLP_ML.jpg)
-
-Este projeto teve como objetivo realizar análise exploratória de dados, NLP e a criação de um modelo de machine learning para prever as notas de avaliação com base em comentários.
-
-A partir de um comentário, é possível indicar a previsão da nota dada pelo cliente. Esta nota varia de 1 a 5.
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Starbucks_Reviews_EDA_NLP_ML)
-
-## Data Science Aplicado ao Alistamento Militar
-![Alt text](images/Data-Science-Aplicado-ao-Alistamento-Militar.png)
-
-O objetivo do projeto é analisar dados demográficos sobre pessoas que se alistam e prever as condições que implicam na seleção para servir no exército brasileiro.
-
-Também fiz uma publicação no Medium descrevendo detalhadamente cada etapa dessa análise.
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Data-Science-Aplicado-ao-Alistamento-Militar)
-- [Clique aqui para ver o projeto no Medium](https://rafael-gardel.medium.com/data-science-aplicado-ao-alistamento-militar-411b727bbbb3)
-
-## Analisando a Campanha Nacional de Vacinação contra a Covid-19 com Data Science
-
-- Qual grupo foi o mais vacinado até agora? 
-- Qual é a idade do brasileiro mais velho que já foi vacinado? 
-- Quem lidera o ranking de pessoas vacinadas, homens ou mulheres? 
-- Qual fabricante de vacina é mais comumente utilizada? 
-- Qual é a idade média dos vacinados? 
-- Qual é a cor predominante entre os vacinados? 
-
-Essas e outras perguntas serão respondidas neste projeto.
-
-![Alt text](images/Analisando-a-Campanha-Nacional-de-Vacina-o-contra-Covid-19-com-Data-Science.jpg)
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Analisando-a-Campanha-Nacional-de-Vacina-o-contra-Covid-19-com-Data-Science)
-
-- [Clique aqui para ver o projeto no Medium](https://rafael-gardel.medium.com/analisando-a-campanha-nacional-de-vacina%C3%A7%C3%A3o-contra-covid-19-com-data-science-621d6dc06f7c)
-
-## Data Science aplicado à lista de espera do SUS na cidade do Rio de Janeiro
-![Alt text](images/sus.png)
-Quantos dias, em média, um carioca fica na lista de espera do SUS para realizar um procedimento? Quais são os procedimentos mais solicitados? Quais hospitais têm as filas mais longas? Qual é a idade do paciente mais velho na fila? E o mais jovem? Essas e outras perguntas serão respondidas neste projeto.
-
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Data-Science-aplicado-a-lista-de-espera-do-SUS-na-cidade-do-Rio-de-janeiro)
-- [Clique aqui para ver o projeto no Medium](https://rafael-gardel.medium.com/data-science-aplicado-a-lista-de-espera-do-sus-na-cidade-do-rio-de-janeiro-2203ade764ac)
-
-## Adult income dataset analysis
-Um estudo sobre a renda anual individual resultante de vários fatores, como educação, idade, sexo, ocupação, etc.
-
-![Alt text](images/adult.png)
-- [Clique aqui para ver o projeto no GitHub](https://github.com/rafaelgard/Adult-income-dataset-analysis)
-
-
-<!-- BLOG-POST-LIST:END -->
+Tenho **Mestrado em Engenharia de Produção pela Poli-USP**, com foco em **modelagem matemática aplicada a problemas de logística, scheduling e planejamento**, e experiência profissional em empresas de grande porte e projetos de consultoria, atuando de forma **end-to-end**, da formulação do problema à validação com o negócio.
 
 ---
 
-### 💡 Outros projetos interessantes que eu desenvolvi
-<!-- BLOG-POST-LIST:START -->
-- [Minicourse-Python-To-Engineering](https://github.com/rafaelgard/Minicurso-Python-Para-Engenharia)
-- [Gurobi_helper](https://github.com/rafaelgard/Gurobi_helper)
-- [Pandas_to_NLP](https://github.com/rafaelgard/Pandas_to_NLP)
-- [Append_CSV](https://github.com/rafaelgard/Junta_CSV)
-<!-- BLOG-POST-LIST:END -->
+## 💼 Experiência Profissional
+
+### **Cientista de Dados — IT Consulting (alocado na Folha de S.Paulo)**  
+_São Paulo | Nov 2025 – Atual_
+
+- Arquitetura e desenvolvimento de **chatbots e assistentes analíticos com IA generativa** para consulta e exploração de dados corporativos.
+- Integração de **LLMs locais e via API** com bases **SQL** e APIs internas, garantindo controle de custo, privacidade e desempenho.
+- Criação e manutenção de **bases de dados relacionais** para consolidação de informações de múltiplas fontes.
+- Definição e implementação de **testes de qualidade e consistência de dados** em pipelines SQL utilizando **PySpark**.
+- Construção de **dashboards e KPIs no Metabase** para monitoramento de indicadores estratégicos e operacionais.
+- Atuação próxima a stakeholders para **validação de resultados analíticos** e suporte à tomada de decisão.
 
 ---
-You can reach me out on any channels below!
 
-- [Meu LinkedIn](https://www.linkedin.com/in/rafael-gardel-b1976999/)
-- Também tenho um blog no [Medium](https://https://rafael-gardel.medium.com/)
-- Você também pode me enviar um [email](mailto:rafaelgardel@usp.br)
+### **Cientista de Dados — Consultoria Independente (PJ)**  
+_São Paulo | Fev 2025 – Nov 2025_
 
+- Desenvolvimento de **modelo matemático de enturmação** utilizando **Gurobi e HiGHS**, resolvendo um problema de **alocação e scheduling** com múltiplas restrições.
+- Alocação em tempo real de **500+ alunos** em centenas de turmas, respeitando capacidade, horários de professores e pré-requisitos.
+- Redução de **29% na quantidade de turmas**, mantendo o número de alunos, gerando **economia superior a R$100.000 por semestre**.
+- Desenvolvimento de **dashboard em Power BI** para acompanhamento de KPIs do Prêmio Cultural Petrobras.
+
+---
+
+### **Cientista de Dados — BRQ (Projeto Ambev)**  
+_São Paulo | Maio 2024 – Nov 2024_
+
+- Desenvolvimento de **modelos de pesquisa operacional e previsão de séries temporais** para otimização de processos industriais.
+- Aplicação dos modelos em **processos de filtração e refrigeração** em múltiplas cervejarias.
+- Implementação em escala internacional, com **impacto positivo em produtividade e receita em 18 países**.
+
+---
+
+### **Cientista de Dados — Thera Consulting (Projeto Suzano)**  
+_São Paulo | Mar 2023 – Jul 2023_
+
+- Modelagem matemática de **problemas logísticos** utilizando **programação inteira mista com Gurobi**.
+- Criação e integração de métodos específicos para projetos de **logística internacional**.
+- Refatoração, versionamento e testes de código em ambientes **Azure e GCP**.
+
+---
+
+### **Analista Sênior de BI e CRM — Cencosud S.A.**  
+_São Paulo | Abr 2022 – Fev 2023_
+
+- Geração de insights para aumento da taxa de conversão de campanhas e produtos financeiros.
+- Automação de processos ETL e criação de relatórios em **QlikView, Power BI e Python**.
+- Desenvolvimento de **modelos de machine learning** para previsão de churn e segmentação de clientes.
+
+---
+
+### **Monitor — Universidade de São Paulo (USP)**  
+_Abr 2021 – Jul 2021_
+
+- Suporte a alunos da disciplina de **Modelagem e Otimização de Sistemas de Produção**.
+
+---
+
+## 🎓 Educação
+
+**Mestrado em Engenharia de Produção** — Universidade de São Paulo (USP)  
+_2020 – 2024_
+
+- Pesquisa em **otimização do scheduling de embarcações offshore**.  
+- Dissertação:  
+[Programação de navios sonda heterogêneos em atividades offshore considerando a elegibilidade](https://www.teses.usp.br/teses/disponiveis/3/3136/tde-26082024-102601/pt-br.php)
+
+**Graduação em Engenharia de Produção** — Universidade Federal Fluminense (UFF)  
+_Concluído em 2019_
+
+---
+
+## 🧠 Linguagens e Ferramentas
+
+- **Programação:** Python, PySpark, SQL, Julia, C++, VBA  
+- **Otimização & OR:** Gurobi, Pyomo, HiGHS, Scheduling, MIP, VRP  
+- **IA & ML:** Machine Learning, NLP, LLMs (HuggingFace, LlamaIndex, LangChain)  
+- **BI & Analytics:** Metabase, Power BI (DAX), QlikView, MicroStrategy  
+- **Infra & MLOps:** Docker, Git, Airflow, AWS, Azure, GCP  
+
+---
+
+## 💻 Projetos em Destaque
+Atualmente mantenho diversos projetos de **otimização, IA e ciência de dados aplicada** no meu GitHub, incluindo:
+
+- **AI Trip Guide** — LLMs open-source aplicados a vídeos do YouTube  
+- **Projetos de Otimização com Gurobi, Pyomo e HiGHS**  
+- **Meta-heurísticas (GA, SA) em Julia**  
+- **NLP e Machine Learning aplicados a problemas reais**
+
+_(Veja a seção completa de projetos abaixo 👇)_
+
+---
+
+## 🌍 Idiomas
+- Português: Nativo  
+- Inglês: Avançado  
+- Espanhol: Básico  
+
+---
+
+## 📫 Contato
+- [LinkedIn](https://www.linkedin.com/in/rafael-gardel-b1976999/)
+- [Medium](https://rafael-gardel.medium.com/)
+- [Email](mailto:rafaelgardel@usp.br)
